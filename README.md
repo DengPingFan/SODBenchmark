@@ -27,6 +27,6 @@ A taxonomy of the saliency detection task is shown below.
 Different from previous SOD reviews, we mainly focus on 2D salient object detection in a fully supervised manner. We highlight the scope of this study in gray.
 For other closely related 3D/4D SOD tasks, we refer readers to
 recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](https://github.com/jxr326/ERSOD-Net), Light Field SOD,  
-Co-SOD, 360$^\circ$Video SOD, and Video SOD.
+Co-SOD, 360° Video SOD, and Video SOD.
  
 ![avatar](Imgs/Scope.png)
