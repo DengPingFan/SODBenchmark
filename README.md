@@ -400,3 +400,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 03 | **ECCV** | RFCN: Saliency detection with recurrent fully convolutional networks | [Paper](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf)/[Code](https://github.com/zengxianyu/RFCN)
 
 ### 2015
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+01 SuperCNN | **IJCV** | A superpixelwise convolutional neural network for salient object detection | [Paper](https://link.springer.com/article/10.1007/s11263-015-0822-0)/[Code]()
