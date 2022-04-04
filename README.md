@@ -217,15 +217,13 @@ Co-SOD, 360° Video SOD, and Video SOD.
 
 91[AIGC][2019][TCSVT]Adaptive Irregular Graph Construction Based Salient Object Detection,
 
-92[PDP][2019][TIP]RGB-‘D’ Saliency Detection With Pseudo Depth,
+92[NIO][2019][TNNLS] Semisupervised Learning Based on a Novel Iterative Optimization Model for Saliency Detection,
 
-93[NIO][2019][TNNLS] Semisupervised Learning Based on a Novel Iterative Optimization Model for Saliency Detection,
+93[MSR][2019][TIP]50 FPS Object-Level Saliency Detection via Maximally Stable Region
 
-94[MSR][2019][TIP]50 FPS Object-Level Saliency Detection via Maximally Stable Region
+94[MSGC][2019][TMM]Saliency Detection via Multi-Scale Global Cues,
 
-95[MSGC][2019][TMM]Saliency Detection via Multi-Scale Global Cues,
-
-96[LRR][2019][TIP]Local Regression Ranking for Saliency Detection,
+95[LRR][2019][TIP]Local Regression Ranking for Saliency Detection,
 
 ## 2022       
 **No.** | **Pub.** | **Title** | **Links** 
