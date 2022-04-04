@@ -28,7 +28,7 @@ Different from previous SOD reviews, we mainly focus on 2D salient object detect
 For other closely related 3D/4D SOD tasks, we refer readers to
 recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](https://github.com/jxr326/ERSOD-Net), Light Field SOD,  
 Co-SOD, 360° Video SOD, and Video SOD.
- 
+
 ![avatar](Imgs/Scope.png)
 
 ## 2. 2D RGB Saliency Detection Models
@@ -40,251 +40,99 @@ Co-SOD, 360° Video SOD, and Video SOD.
 02 | FG | **ACMMM** | **2003** | Contrast-based image attention analysis by using fuzzy growing | [Paper]()/[Code]
 03 | RSA | **ACMMM** | **2005** | Robust subspace analysis for detecting visual attention regions in images | [Paper]()/[Code]
 04 | AIM | **NIPS** | **2005** | Saliency Based on Information Maximization | [Paper]()/[Code]
-05 | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-06 | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-07 | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-08 | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-09 | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
-xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
+05 |    RE     |      ICME      |   2006   | Region enhanced scale-invariant saliency detection           | [Paper]()/[Code]
+06 |    SR     |      CVPR      |   2007   | Saliency Detection A Spectral Residual Approach              | [Paper]()/[Code]
+07 |    GB     |      NIPS      |   2007   | Graph-Based Visual Saliency                                  | [Paper]()/[Code]
+08 |    RU     |      TMM       |   2007   | A rule based technique for extraction of visual attention regions based on real-time clustering | [Paper]()/[Code]
+09 |    SUN    |      JOV       |   2008   | SUN: A bayesian framework for saliency using natural statistics | [Paper]()/[Code]
+10 |    AC     |      ICVS      |   2008   | Salient region detection and segmentation                    | [Paper]()/[Code]
+11 |    FT     |      CVPR      |   2009   | Frequency-tuned Salient Region Detection                     | [Paper]()/[Code]
+12 |    ICC    |      ICCV      |   2009   | Image saliency by isocentric curvedness and color            | [Paper]()/[Code]
+13 |    EDS    |       PR       |   2009   | **simple method for detecting salient regions**              | [Paper]()/[Code]
+14 |    CA     |      CVPR      |   2010   | Context-Aware Saliency Detection                             | [Paper]()/[Code]
+15 |    SEG    |      ECCV      |   2010   | Segmenting Salient Objects from Images and Videos            | [Paper]()/[Code]
+16 |   MSSS    |      ICIP      |   2010   | Saliency Detection using Maximum Symmetric Surround          | [Paper]()/[Code]
+17 |    CSM    |     ACMMM      |   2010   | Automatic interesting object extraction from images using complementary saliency maps | [Paper]()/[Code]
+18 |   HC,RC   |      CVPR      |   2011   | Global Contrast based Salient Region Detection               | [Paper]()/[Code]
+19 |    SVO    |      ICCV      |   2011   | Fusing generic objectness and visual saliency for salient object detection | [Paper]()/[Code]
+20 |    CSD    |      ICCV      |   2011   | Center-surround divergence of feature statistics for salient object detection | [Paper]()/[Code]
+21 |    CC     |      ICCV      |   2011   | Salient object detection using concavity context             | [Paper]()/[Code]
+22 |    CB     |      BMVC      |   2011   | Automatic Salient Object Segmentation Based on Context and Shape Prior | [Paper]()/[Code]
+23 |    SF     |      CVPR      |   2012   | Saliency Filters Contrast Based Filtering for Salient Region Detection | [Paper]()/[Code]
+24 |    LR     |      CVPR      |   2012   | A Unified Approach to Salient Object Detection via Low Rank Matrix Recovery | [Paper]()/[Code]
+25 |    GS     |      ECCV      |   2012   | Geodesic saliency using background priors                    | [Paper]()/[Code]
+26 |    BSF    |      ICIP      |   2012   | Saliency Detection Based on Integration of Boundary and Soft-Segmentation | [Paper]()/[Code]
+27 |   GC,GU   |      ICCV      |   2013   | Efficient Salient Region Detection with Soft Image Abstraction | [Paper]()/[Code]
+28 |    MR     |      CVPR      |   2013   | Saliency Detection via Graph-Based Manifold Ranking          | [Paper]()/[Code]
+29 |    MC     |      ICCV      |   2013   | Saliency Detection via Absorbing Markov Chain                | [Paper]()/[Code]
+30 |   DRFI    |      CVPR      |   2013   | Salient Object Detection A Discriminative Regional Feature Integration Approach | [Paper]()/[Code]
+31 |    DSR    |      ICCV      |   2013   | Saliency Detection via Dense and Sparse Reconstruction       | [Paper]()/[Code]
+32 |   PISA    |      CVPR      |   2013   | Pisa: Pixelwise image saliency by aggregating complementary appearance contrast measures with spatial priors | [Paper]()/[Code]
+33 |    CRF    |      CVPR      |   2013   | Saliency aggregation: A data-driven approach                 | [Paper]()/[Code]
+34 |    HS     |      CVPR      |   2013   | Hierarchical Saliency Detection                              | [Paper]()/[Code]
+35 |    PCA    |      CVPR      |   2013   | What Makes a Patch Distinct                                  | [Paper]()/[Code]
+36 |    STD    |      CVPR      |   2013   | Statistical textural distinctiveness for salient region detection in natural images | [Paper]()/[Code]
+37 |    CRF    |      CVPR      |   2013   | Saliency Aggregation A Data-driven Approach                  | [Paper]()/[Code]
+38 |    SUB    |      CVPR      |   2013   | Submodular salient region detection                          | [Paper]()/[Code]
+39 |    UFO    |      ICCV      |   2013   | Salient Region Detection by UFO Uniqueness, Focusness and Objectness | [Paper]()/[Code]
+40 |    CHM    |      ICCV      |   2013   | Contextual hypergraph modeling for salient object detection  | [Paper]()/[Code]
+41 |    COV    |      JOV       |   2013   | Visual saliency estimation by nonlinearly integrating features using region covariances | [Paper]()/[Code]
+42 |    CIO    |      ICCV      |   2013   | Category-independent object-level saliency detection         | [Paper]()/[Code]
+43 |    GR     |      SPL       |   2013   | Graph-Regularized Saliency Detection With Convex-Hull-Based Center Prior | [Paper]()/[Code]
+44 |   SLMR    |      BMVC      |   2013   | Segmentation driven lowrank matrix recovery for saliency detection | [Paper]()/[Code]
+45 |   LSSC    |      TIP       |   2013   | Bayesian Saliency via Low and Mid Level Cues                 | [Paper]()/[Code]
+46 |   LSMD    |      AAAI      |   2013   | Salient object detection via low-rank and structured sparse matrix decomposition | [Paper]()/[Code]
+47 |   HDCT    |      CVPR      |   2014   | Salient Region Detection via High-Dimensional Color Transform | [Paper]()/[Code]
+48 |    PDE    |      CVPR      |   2014   | Adaptive partial differential equation learning for visual saliency detection | [Paper]()/[Code]
+49 |    RBD    |      CVPR      |   2014   | Saliency Optimization from Robust Background Detection       | [Paper]()/[Code]
+50 |    MSS    |      SPL       |   2014   | Saliency Detection with Multi-Scale Superpixels              | [Paper]()/[Code]
+51 |    GP     |      ICCV      |   2015   | Generic Promotion of Diffusion-Based Salient Object Detection | [Paper]()/[Code]
+52 |    MBS    |      ICCV      |   2015   | Minimum Barrier Salient Object Detection at 80 FPS           | [Paper]()/[Code]
+53 |    WSC    |      CVPR      |   2015   | A Weighted Sparse Coding Framework for Saliency Detection    | [Paper]()/[Code]
+54 |    RRW    |      CVPR      |   2015   | Robust saliency detection via regularized random walks ranking | [Paper]()/[Code]
+55 |   TLLT    |      CVPR      |   2015   | Saliency Propagation from Simple to Difficult                | [Paper]()/[Code]
+56 |    BL     |      CVPR      |   2015   | Salient Object Detection via Bootstrap Learning              | [Paper]()/[Code]
+57 |   BSCA    |      CVPR      |   2015   | Saliency Detection via Cellular Automata                     | [Paper]()/[Code]
+58 |    GLC    |       PR       |   2015   | Salient Object Detection via Global and Local Cues           | [Paper]()/[Code]
+59 |    LPS    |      TIP       |   2015   | Inner and Inter Label Propagation Salient Object Detection in the Wild | [Paper]()/[Code]
+60 |   MAPM    |      TIP       |   2015   | Saliency Region Detection based on Markov Absorption Probabilities | [Paper]()/[Code]
+61 |    NCS    |      TIP       |   2015   | Normalized cut-based saliency detection by adaptive multi-level region merging | [Paper]()/[Code]
+62 |    BFS    |       NC       |   2015   | Saliency Detection via Background and Foreground Seed Selection | [Paper]()/[Code]
+63 |    UF     |      TMM       |   2016   | A Universal Framework for Salient Object Detection           | [Paper]()/[Code]
+64 |    MST    |      CVPR      |   2016   | Real-Time Salient Object Detection with a Minimum Spanning Tree | [Paper]()/[Code]
+65 |    PM     |      ECCV      |   2016   | **【post-processing method】Pattern Mining Saliency**        | [Paper]()/[Code]
+66 |    DSP    |       PR       |   2016   | Discriminative saliency propagation with sink points         | [Paper]()/[Code]
+67 |    EBM    |     IJCAI      |   2016   | Saliency Transfer An Example-Based Method for Salient Object Detection | [Paper]()/[Code] 
+68 | AWC | Neurocomputing | 2016 | Robust manifold-preserving diffusion-based saliency detection by adaptive weight construction | [Paper]()/[Code] 
+69 | MRMF | TNNLS | 2016 | Manifold Ranking-Based Matrix Factorization for Saliency Detection | [Paper]()/[Code] 
+70 | SBCRF | Neurocomputing | 2017 | A superpixel-based CRF saliency detection approach | [Paper]()/[Code] 
+71 | WLRR | SPL | 2017 | Salient Object Detection via Weighted Low Rank Matrix Recovery | [Paper]()/[Code] 
+72 | MIL | TIP | 2017 | Salient Object Detection via Multiple Instance Learning | [Paper]()/[Code] 
+73 | SMD | PAMI | 2017 | Salient Object Detection via Structured Matrix Decomposition | [Paper]()/[Code] 
+74 | MDC | TIP | 2017 | 300-FPS Salient Object Detection via Minimum Directional Contrast | [Paper]()/[Code] 
+75 | SS | NC | 2017 | Spectral Salient Object Detection | [Paper]()/[Code] 
+76 | IFC | TMM | 2017 | Iterative Feedback Control Based Salient Object Segmentation | [Paper]()/[Code] 
+77 | CCRF |      TMM       |   2017   | Saliency Detection by Fully Learning A Continuous Conditional Random Field | [Paper]()/[Code] 
+78 | ELER | CVPR | 2017 | What is and what is not a salient object? learning salient object detector by ensembling linear exemplar regressors | [Paper]()/[Code] 
+79 | DIMD | PR | 2017 | Diversity Induced Matrix Decomposition Model for salient object detection | [Paper]()/[Code] 
+80 | ProS | NC | 2018 | Salient Object Detection via Proposal Selection | [Paper]()/[Code] 
+81 | WMR | NC | 2018 | Saliency detection via affinity graph learning and weighted manifold ranking | [Paper]()/[Code] 
+82 | RCRR | TIP | 2018 | Reversion correction and regularized random walk ranking for saliency detection | [Paper]()/[Code] 
+83 | JLSE | TIP | 2018 | Exemplar-aided Salient Object Detection via Joint Latent Space Embedding | [Paper]()/[Code] 
+84 | WFD | PR | 2018 | Water flow driven salient object detection at 180 fps | [Paper]()/[Code] 
+85 | FBQ | Access | 2018 | Hypergraph Optimization for Salient Region Detection Based on Foreground and Background Queries | [Paper]()/[Code] 
+86 | FTOE | TMM | 2019 | Salient Object Detection via Fuzzy Theory and Object-level Enhancement | [Paper]()/[Code] 
+87 | KSR | TIP | 2019 | Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning | [Paper]()/[Code] 
+88 | FCB | TIP | 2019 | Exploiting Color Volume and Color Difference for Salient Region Detection | [Paper]()/[Code] 
+89 | TSG | TCSVT | 2019 | Salient Object Detection Via Two-Stage Graphs | [Paper]()/[Code] 
+90 | DSC | TCSVT | 2019 | Direction Selective Contour Detection for Salient | [Paper]()/[Code] 
+91 | AIGC | TCSVT | 2019 | Adaptive Irregular Graph Construction Based Salient Object Detection | [Paper]()/[Code] 
+92 | NIO | TNNLS | 2019 | Semisupervised Learning Based on a Novel Iterative Optimization Model for Saliency Detection | [Paper]()/[Code] 
+93 | MSR | TIP | 2019 | 50 FPS Object-Level Saliency Detection via Maximally Stable Region | [Paper]()/[Code] 
+94 | MSGC | TMM | 2019 | Saliency Detection via Multi-Scale Global Cues | [Paper]()/[Code] 
+95 | LRR | TIP | 2019 | Local Regression Ranking for Saliency Detection | [Paper]()/[Code] 
 
-5[RE][2006][ICME]Region enhanced scale-invariant saliency detection,
 
-6[SR]  [2007][CVPR]Saliency Detection A Spectral Residual Approach,
-
-7[GB][2007][NIPS]Graph-Based Visual Saliency,
-
-8[RU][2007][TMM]A rule based technique for extraction of visual attention regions based on real-time clustering,
-
-9[SUN][2008][JOV]SUN: A bayesian framework for saliency using natural statistics,
-
-10[AC][2008][ICVS]Salient region detection and segmentation,
-
-11[FT][2009][CVPR]Frequency-tuned Salient Region Detection,
-
-12[ICC][2009][ICCV]Image saliency by isocentric curvedness and color,
-
-13[EDS][2009][PR]simple method for detecting salient regions,
-
-14[CA][2010][CVPR]Context-Aware Saliency Detection,
-
-15[SEG][2010][ECCV]Segmenting Salient Objects from Images and Videos,
-
-16[MSSS][2010][ICIP]Saliency Detection using Maximum Symmetric Surround,
-
-17[CSM][2010][ACMMM]Automatic interesting object extraction from images using complementary saliency maps,
-
-18[HC,RC][2011][CVPR]Global Contrast based Salient Region Detection,
-
-19[SVO][2011][ICCV]Fusing generic objectness and visual saliency for salient object detection,
-
-20[CSD][2011][ICCV]Center-surround divergence of feature statistics for salient object detection,
-
-21[CC][2011][ICCV]Salient object detection using concavity context,
-
-22[CB][2011][BMVC]Automatic Salient Object Segmentation Based on Context and Shape Prior,
-
-23[SF][2012][CVPR]Saliency Filters Contrast Based Filtering for Salient Region Detection,
-
-24[LR][2012][CVPR]A Unified Approach to Salient Object Detection via Low Rank Matrix Recovery,
-
-25[GS][2012][ECCV]Geodesic saliency using background priors,
-
-26[BSF][2012][ICIP]Saliency Detection Based on Integration of Boundary and Soft-Segmentation,
-
-27[GC,GU][2013][ICCV]Efficient Salient Region Detection with Soft Image Abstraction,
-
-28[MR][2013][CVPR]Saliency Detection via Graph-Based Manifold Ranking,
-
-29[MC][2013][ICCV]Saliency Detection via Absorbing Markov Chain,
-
-30[DRFI][2013][CVPR]Salient Object Detection A Discriminative Regional Feature Integration Approach,
-
-31[DSR][2013][ICCV]Saliency Detection via Dense and Sparse Reconstruction,
-
-32[PISA][2013][CVPR]Pisa: Pixelwise image saliency by aggregating complementary appearance contrast measures with spatial priors,
-
-33[CRF][2013][CVPR]Saliency aggregation: A data-driven approach,
-
-34[HS][2013][CVPR]Hierarchical Saliency Detection,
-
-35[PCA][2013][CVPR]What Makes a Patch Distinct,
-
-36[STD][2013][CVPR]Statistical textural distinctiveness for salient region detection in natural images,
-
-37[CRF][2013][CVPR]Saliency Aggregation A Data-driven Approach,
-
-38[SUB][2013][CVPR]Submodular salient region detection,
-
-39[UFO][2013][ICCV]Salient Region Detection by UFO Uniqueness, Focusness and Objectness,
-
-40[CHM][2013][ICCV]Contextual hypergraph modeling for salient object detection,
-
-41[COV][2013][JOV]Visual saliency estimation by nonlinearly integrating features using region covariances,
-
-42[CIO][2013][ICCV]Category-independent object-level saliency detection,
-
-43[GR][2013][SPL]Graph-Regularized Saliency Detection With Convex-Hull-Based Center Prior,
-
-44[SLMR][2013][BMVC]Segmentation driven lowrank matrix recovery for saliency detection,
-
-45[LSSC][2013][TIP]Bayesian Saliency via Low and Mid Level Cues,
-
-46[LSMD][2013][AAAI]Salient object detection via low-rank and structured sparse matrix decomposition,
-
-47[HDCT][2014][CVPR]Salient Region Detection via High-Dimensional Color Transform,
-
-48[PDE][2014][CVPR]Adaptive partial differential equation learning for visual saliency detection,
-
-
-49[RBD][2014][CVPR]Saliency Optimization from Robust Background Detection,
-
-50[MSS][2014][SPL]Saliency Detection with Multi-Scale Superpixels,
-
-51[GP][2015][ICCV]Generic Promotion of Diffusion-Based Salient Object Detection,
-
-52[MBS][2015][ICCV]Minimum Barrier Salient Object Detection at 80 FPS,
-
-53[WSC][2015][CVPR]A Weighted Sparse Coding Framework for Saliency Detection,
-
-54[RRW][2015][CVPR]Robust saliency detection via regularized random walks ranking,
-
-55[TLLT][2015][CVPR]Saliency Propagation from Simple to Difficult,
-
-56[BL][2015][CVPR]Salient Object Detection via Bootstrap Learning,
-
-57[BSCA][2015][CVPR]Saliency Detection via Cellular Automata,
-
-58[GLC][2015][PR]Salient Object Detection via Global and Local Cues,
-
-59[LPS][2015][TIP]Inner and Inter Label Propagation Salient Object Detection in the Wild,
-
-60[MAPM][2015][TIP]Saliency Region Detection based on Markov Absorption Probabilities,
-
-61[NCS][2015][TIP]Normalized cut-based saliency detection by adaptive multi-level region merging,
-
-62[BFS][2015][NC]Saliency Detection via Background and Foreground Seed Selection,
-
-63[UF][2016][TMM]A Universal Framework for Salient Object Detection,
-
-64[MST][2016][CVPR]Real-Time Salient Object Detection with a Minimum Spanning Tree,
-
-65[PM][2016][ECCV]【post-processing method】Pattern Mining Saliency,
-
-66[DSP][2016][PR]Discriminative saliency propagation with sink points,
-
-67[EBM][2016][IJCAI]Saliency Transfer An Example-Based Method for Salient Object Detection,
-
-68[AWC][2016][Neurocomputing]Robust manifold-preserving diffusion-based saliency detection by adaptive weight construction,
-
-69[MRMF][2016][TNNLS] Manifold Ranking-Based Matrix Factorization for Saliency Detection,
-
-70[SBCRF][2017][Neurocomputing]A superpixel-based CRF saliency detection approach,
-
-71[WLRR][2017][SPL]Salient Object Detection via Weighted Low Rank Matrix Recovery,
-
-72[MIL][2017][TIP]Salient Object Detection via Multiple Instance Learning,
-
-73[SMD][2017][PAMI]Salient Object Detection via Structured Matrix Decomposition,
-
-74[MDC][2017][TIP]300-FPS Salient Object Detection via Minimum Directional Contrast,[code]
-
-75[SS][2017][NC]Spectral Salient Object Detection,
-
-76[IFC][2017][TMM]Iterative Feedback Control Based Salient Object Segmentation,
-
-77[CCRF][2017][TMM]Saliency Detection by Fully Learning A Continuous Conditional Random Field,
-
-78[ELER][2017][CVPR]What is and what is not a salient object? learning salient object detector by ensembling linear exemplar regressors,
-
-79[DIMD][2017][PR]Diversity Induced Matrix Decomposition Model for salient object detection,
-
-80[ProS][2018][NC]ProS]Salient Object Detection via Proposal Selection,
-
-81[WMR][2018][NC]Saliency detection via affinity graph learning and weighted manifold ranking,
-
-82[RCRR][2018][TIP]Reversion correction and regularized random walk ranking for saliency detection,
-
-83[JLSE][2018][TIP] Exemplar-aided Salient Object Detection via Joint Latent Space Embedding,
-
-84[WFD][2018][PR]Water flow driven salient object detection at 180 fps,
-
-85[FBQ][2018][Access]Hypergraph Optimization for Salient Region Detection Based on Foreground and Background Queries,
-
-86[FTOE][2019][TMM]Salient Object Detection via Fuzzy Theory and Object-level Enhancement,
-
-87[KSR][2019][TIP]Visual Saliency Detection via Kernelized Subspace Ranking with Active Learning, (SOC)
-
-88[FCB][2019][TIP]Exploiting Color Volume and Color Difference for Salient Region Detection,
-
-89[TSG][2019][TCSVT]Salient Object Detection Via Two-Stage Graphs,
-
-90[DSC][2019][TCSVT]Direction Selective Contour Detection for Salient,
-
-91[AIGC][2019][TCSVT]Adaptive Irregular Graph Construction Based Salient Object Detection,
-
-92[NIO][2019][TNNLS] Semisupervised Learning Based on a Novel Iterative Optimization Model for Saliency Detection,
-
-93[MSR][2019][TIP]50 FPS Object-Level Saliency Detection via Maximally Stable Region
-
-94[MSGC][2019][TMM]Saliency Detection via Multi-Scale Global Cues,
-
-95[LRR][2019][TIP]Local Regression Ranking for Saliency Detection,
 
 
 
@@ -378,7 +226,7 @@ xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
 21 | **NeurIPS** | ICNet: Intra-saliency Correlation Network for Co-Saliency Detection | [Paper](https://proceedings.neurips.cc/paper/2020/file/d961e9f236177d65d21100592edb0769-Paper.pdf)/[Code](https://github.com/blanclist/ICNet)
 
 
-  
+
 
 
 
@@ -417,7 +265,7 @@ xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
 28 | **NeurIPS** | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
 29 | **CVPR** | Salient Object Detection With Pyramid Attention and Salient Edges | [Paper](https://www.researchgate.net/publication/332751907_Salient_Object_Detection_With_Pyramid_Attention_and_Salient_Edges)/[Code](https://github.com/wenguanwang/PAGE-Net)      
 
-    
+​    
 
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
@@ -439,8 +287,8 @@ xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
 15 | **CVPR** | Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective | [Paper](https://arxiv.org/abs/1803.10910)/[Code](https://github.com/kris-singh/Deep-Unsupervised-Saliency-Detection)
 
 
-    
- 
+​    
+
 ## 2017
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
@@ -454,7 +302,7 @@ xx | xx | **xx** | **xx** | xx | [Paper]()/[Code]
 08 | **ICCV** | Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector  | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Supervision_by_Fusion_ICCV_2017_paper.pdf)/[Code](https://github.com/zhangyuygss/SVFSal.caffe)
 
  
-  
+
 
 ## 2016
 **No.** | **Pub.** | **Title** | **Links** 
