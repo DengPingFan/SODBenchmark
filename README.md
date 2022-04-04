@@ -15,6 +15,18 @@
 - If you have any questions about our paper, feel free to contact me. And if you are using SOCbenchamrk results 
 or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-citation)).
 
-## 2. Task Relationship
-RGB Salient object detection is a task-based on a visual attention mechanism, in which algorithms aim to explore objects or regions more attentive than the surrounding areas on the scene or RGB images. 
+## 2. Scope
+Salient object detection originated from the task of fixation prediction (FP), switching attention regions for accurate object-level regions. 
+Current algorithms have been developed for 2D images of limited resolution (width or height $<$ 500 pixels), high-resolution (i.e., 1080p, 4K) and 
+even remote sensing data. According to the supervision strategy, there are five types of SOD models: fully supervised, 
+semi-supervised, weakly supervised, unsupervised, and self-supervised.
+
+Recently, several interesting extensions of SOD have also been introduced, such as salient instance detection (SID), 
+salient object subitizing (SOS), and saliency ranking. 
+A taxonomy of the saliency detection task is shown below. 
+Different from previous SOD reviews, we mainly focus on 2D salient object detection in a fully supervised manner. We highlight the scope of this study in gray.
+For other closely related 3D/4D SOD tasks, we refer readers to
+recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](https://github.com/jxr326/ERSOD-Net), Light Field SOD,  
+Co-SOD, 360$^\circ$Video SOD, and Video SOD.
+ 
 ![avatar](Imgs/Scope.png)
