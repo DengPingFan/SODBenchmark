@@ -35,7 +35,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 
 ## Traditional Methods (Updated: 2022-04-04)
 1[It][1998][PAMI] A Model of Saliency-Based Visual Attention for Rapid Scene Analysis,
-
 2[FG][2003][ACMMM]Contrast-based image attention analysis by using fuzzy growing,
 [RSA][2005][ACMMM]Robust subspace analysis for detecting visual attention regions in images,
 [AIM][2005][NIPS]Saliency Based on Information Maximization,
