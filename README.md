@@ -14,3 +14,6 @@
 
 - If you have any questions about our paper, feel free to contact me. And if you are using SOCbenchamrk results 
 or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-citation)).
+
+## 2. Task Relationship
+RGB Salient object detection is a task-based on a visual attention mechanism, in which algorithms aim to explore objects or regions more attentive than the surrounding areas on the scene or RGB images. 
