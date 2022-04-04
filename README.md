@@ -1,1 +1,1 @@
-# SODBenchmark
+# Salient objects in clutter
