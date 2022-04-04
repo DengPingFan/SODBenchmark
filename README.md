@@ -34,10 +34,10 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## 2. 2D RGB Saliency Detection Models
 
 ## Traditional Methods (Updated: 2022-04-04)
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 It | **TPAMI1998** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [Paper]()/[Code]
-02 FG | **ACMMM2003** | Contrast-based image attention analysis by using fuzzy growing | [Paper]()/[Code]
+**No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
+:-: | :-: | :-: | :-: | :-  | :-: 
+01 | It | **TPAMI** | **1998** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [Paper]()/[Code]
+02 | FG | **ACMMM** | **2003** | Contrast-based image attention analysis by using fuzzy growing | [Paper]()/[Code]
 
 2[][2003][]Contrast-based image attention analysis by using fuzzy growing,
 
