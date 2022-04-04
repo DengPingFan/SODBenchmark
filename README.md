@@ -16,7 +16,7 @@
 or evaluation toolbox for your research, please cite this paper ([BibTeX](#4-citation)).
 
 ## 2. Scope
-Salient object detection originated from the task of fixation prediction (FP), switching attention regions for accurate object-level regions. 
+Salient object detection (SOD) originated from the task of fixation prediction (FP), switching attention regions for accurate object-level regions. 
 Current algorithms have been developed for 2D images of limited resolution (width or height $<$ 500 pixels), high-resolution (i.e., 1080p, 4K) and 
 even remote sensing data. According to the supervision strategy, there are five types of SOD models: fully supervised, 
 semi-supervised, weakly supervised, unsupervised, and self-supervised.
