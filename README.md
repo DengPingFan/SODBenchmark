@@ -36,10 +36,10 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## Traditional Methods (Updated: 2022-04-04)
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 It | **TPAMI** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [Paper]()/[Code]()
-01 It | **TPAMI** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [Paper]()/[Code]()
+01 It | **TPAMI1998** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [Paper]()/[Code]
+02 FG | **ACMMM2003** | Contrast-based image attention analysis by using fuzzy growing | [Paper]()/[Code]
 
-2[FG][2003][ACMMM]Contrast-based image attention analysis by using fuzzy growing,
+2[][2003][]Contrast-based image attention analysis by using fuzzy growing,
 
 3[RSA][2005][ACMMM]Robust subspace analysis for detecting visual attention regions in images,
 
