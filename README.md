@@ -312,11 +312,33 @@ Co-SOD, 360° Video SOD, and Video SOD.
 53 | FLoss | ICCV | 2019 | Optimizing the F-measure for Threshold-free Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Optimizing_the_F-Measure_for_Threshold-Free_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/zeakey/iccv2019-fmeasure)
 53 | HRSOD | ICCV | 2019 | Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
 53 | EGNet | ICCV | 2019 | EGNet: Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | SCRN | ICCV | 2019 | Stacked Cross Refinement Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Stacked_Cross_Refinement_Network_for_Edge-Aware_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/wuzhe71/SCRN)
+53 | DeepUSPS | NeurIPS | 2019 | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
+53 | EAI | ICLR | 2019 | Efficient Saliency Maps for Explainable AI | [Paper](https://arxiv.org/pdf/1911.11293)/[Code]
+
+
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
 54 | DFI | TIP | 2020 | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
 55 | CALoss | TIP | 2020 | Contour-aware loss: Boundary-aware learning for salient object segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/9263394/09262030.pdf)/[Code]
 54 | EGNL | TCSVT | 2020 | Edge-guided non-local fully convolutional network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/09036909.pdf)/[Code]
@@ -331,14 +353,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
 07 | **CVPR** | PoolNet: A Simple Pooling-Based Design for Real-Time Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.09569.pdf)/[Code](https://github.com/backseason/PoolNet) 
-11 | **ICIP** | Salient Object Detection Via Deep Hierarchical Context Aggregation And Multi-Layer Supervision | [Paper](https://github.com/ZhangC2/Saliency-DHCA-ML_S)/[Code](https://github.com/ZhangC2/Saliency-DHCA-ML_S)
 12 | **IEEE TCSVT** | AADF-Net: Aggregating Attentional Dilated Features for Salient Object | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836095)/[Code](https://github.com/githubBingoChen/AADF-Net)
 13 | **IEEE TCyb** | ROSA: Robust Salient Object Detection against Adversarial Attacks | [Paper](https://arxiv.org/pdf/1905.03434.pdf)/[Code](https://github.com/lhaof/ROSA-Robust-Salient-Object-Detection-Against-Adversarial-Attacks)
-15 | **arXiv** | SAC-Net: Spatial Attenuation Context for Salient Object Detection | [Paper](https://arxiv.org/pdf/1903.10152.pdf)/Code
-16 | **arXiv** | SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.00048.pdf)/Code
-17 | **arXiv** | Region Refinement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1906.11443.pdf)/Code
-19 | **arXiv** | OGNet: Salient Object Detection with Output-guided Attention Module | [Paper](https://arxiv.org/pdf/1907.07449.pdf)/Code
-20 | **arXiv** | Edge-guided Non-local Fully Convolutional Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.02460.pdf)/Code
-22  | **ICCV** | Stacked Cross Refinement Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Stacked_Cross_Refinement_Network_for_Edge-Aware_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/wuzhe71/SCRN)
-28 | **NeurIPS** | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
+
 
