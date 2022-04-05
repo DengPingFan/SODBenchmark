@@ -290,7 +290,13 @@ Co-SOD, 360° Video SOD, and Video SOD.
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+
+
+55 | CALoss | TIP | 2020 | Contour-aware loss: Boundary-aware learning for salient object segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/9263394/09262030.pdf)/[Code]
+
+54 | DNA | T-Cybernetics | 2021 | DNA: Deeply supervised nonlinear aggregation for salient object detection | [Paper](xxx)/[Code]
+
+54 | EGNL | TCSVT | 2020 | Edge-guided non-local fully convolutional network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/09036909.pdf)/[Code]
 
 
 13 | **PR** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
@@ -317,7 +323,7 @@ Dynamic feature integration for simultaneous detection of salient object, edge, 
 15 | **arXiv** | SAC-Net: Spatial Attenuation Context for Salient Object Detection | [Paper](https://arxiv.org/pdf/1903.10152.pdf)/Code
 16 | **arXiv** | SE2Net: Siamese Edge-Enhancement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.00048.pdf)/Code
 17 | **arXiv** | Region Refinement Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1906.11443.pdf)/Code
-18 | **arXiv** | Contour Loss: Boundary-Aware Learning for Salient Object Segmentation | [Paper](https://arxiv.org/pdf/1908.01975.pdf)/Code
+18 | **arXiv** | 
 19 | **arXiv** | OGNet: Salient Object Detection with Output-guided Attention Module | [Paper](https://arxiv.org/pdf/1907.07449.pdf)/Code
 20 | **arXiv** | Edge-guided Non-local Fully Convolutional Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.02460.pdf)/Code
 21 | **ICCV** | FLoss:Optimizing the F-measure for Threshold-free Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Optimizing_the_F-Measure_for_Threshold-Free_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/zeakey/iccv2019-fmeasure)
