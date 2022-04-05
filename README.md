@@ -332,11 +332,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 
-## 2018
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-11 | **IEEE TIP** | An unsupervised game-theoretic approach to saliency detection | 
-12 | **arXiv** | Agile Amulet: Real-Time Salient Object Detection with Contextual Attention | [Paper](http://arxiv.org/pdf/1802.06960)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
-13 | **arXiv** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
-14 | **arXiv** | (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction | [Paper](https://arxiv.org/pdf/1803.09860.pdf)/Code
 
+13 | **PR** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
+
+Dynamic feature integration for simultaneous detection of salient object, edge, and skeleton
