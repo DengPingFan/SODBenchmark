@@ -285,11 +285,12 @@ PoolNet:
 53 | MeshSaliency | CVPR | 2021 | Mesh Saliency: An Independent Perceptual Measure or A Derivative of Image Saliency? | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Mesh_Saliency_An_Independent_Perceptual_Measure_or_a_Derivative_of_CVPR_2021_paper.pdf)/[Code](https://github.com/rsong/MIMO-GAN)
 53 | BBESOD | CVPR | 2021 | Black-Box Explanation of Object Detectors via Saliency Maps | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Petsiuk_Black-Box_Explanation_of_Object_Detectors_via_Saliency_Maps_CVPR_2021_paper.pdf)/Code
 53 | CAMERAS | CVPR | 2021 | CAMERAS: Enhanced Resolution and Sanity Preserving Class Activation Mapping for Image Saliency | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jalwana_CAMERAS_Enhanced_Resolution_and_Sanity_Preserving_Class_Activation_Mapping_for_CVPR_2021_paper.pdf)/[Code](https://github.com/VisMIL/CAMERAS)
-53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
+53 | SGIT | CVPR | 2021 | Saliency-Guided Image Translation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)/Code
+53 | Auto-MSFNet | ACMMM | 2021 | Auto-MSFNet: Search Multi-scale Fusion Network for Salient Object Detection | [Paper](https://github.com/LiuTingWed/Auto-MSFNet)/[Code](https://github.com/LiuTingWed/Auto-MSFNet) 
+53 | CTDNet | ACMMM | 2021 | Complementary Trilateral Decoder for Fast and Accurate Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475494)/[Code](https://github.com/zhaozhirui/CTDNet)
+53 | DCN | TIP | 2021 | Decomposition and Completion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9479697/figures#figures)/[Code](https://github.com/wuzhe71/DCN) 
+53 | PurNet | TIP | 2021 | Salient Object Detection with Purificatory Mechanism and Structural Similarity Loss | [Paper](https://arxiv.org/pdf/1912.08393.pdf)/[Code](https://github.com/Jinming-Su/PurNet)
+
 53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2021 | xxx | [Paper](xxx)/[Code]
@@ -298,12 +299,6 @@ PoolNet:
 ## 2021       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-17 | **CVPR** | 
-18 | **CVPR** | Saliency-Guided Image Translation | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)/Code
-19 | **CVPR** | Group Collaborative Learning for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2104.01108.pdf)/[Code](https://github.com/fanq15/GCoNet)
-20 | **CVPR** | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | [Paper](https://arxiv.org/pdf/2104.02628.pdf)/[Code](https://github.com/JingZhang617/Joint_COD_SOD)
-21 | **ACMM** | Auto-MSFNet: Search Multi-scale Fusion Network for Salient Object Detection | [Paper](https://github.com/LiuTingWed/Auto-MSFNet)/[Code](https://github.com/LiuTingWed/Auto-MSFNet) 
-22 | **IEEE TIP** | Decomposition and Completion Network for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9479697/figures#figures)/[Code](https://github.com/wuzhe71/DCN) 
 23 | **ICCV** | Visual Saliency Transformer | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) 
 24 | **ICCV** | Disentangled High Quality Salient Object Detection | [Paper](https://arxiv.org/pdf/2108.03551.pdf)/[Code](https://github.com/luckybird1994/HQSOD) 
 25 | **ICCV** | iNAS: Integral NAS for Device-Aware Salient Object Detection | [Paper](https://mftp.mmcheng.net/Papers/21ICCV-iNAS.pdf)/[Code](https://mmcheng.net/inas/) 
@@ -311,8 +306,6 @@ PoolNet:
 27 | **ICCV** | MFNet: Multi-Filter Directive Network for Weakly Supervised Salient Object Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Piao_MFNet_Multi-Filter_Directive_Network_for_Weakly_Supervised_Salient_Object_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/OIPLab-DUT/MFNet) 
 28 | **ICCV** | Salient Object Ranking with Position-Preserved Attention | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Salient_Object_Ranking_With_Position-Preserved_Attention_ICCV_2021_paper.pdf)/[Code](https://github.com/EricFH/SOR) 
 29 | **ICCV** | Summarize and Search: Learning Consensus-aware Dynamic Convolution for Co-Saliency Detection | [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Summarize_and_Search_Learning_Consensus-Aware_Dynamic_Convolution_for_Co-Saliency_Detection_ICCV_2021_paper.pdf)/[Code](https://github.com/nnizhang/CADC) 
-30 | **IEEE TIP** | Salient Object Detection with Purificatory Mechanism and Structural Similarity Loss | [Paper](https://arxiv.org/pdf/1912.08393.pdf)/[Code](https://github.com/Jinming-Su/PurNet) 
-31 | **ACMM** | Complementary Trilateral Decoder for Fast and Accurate Salient Object Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475494)/[Code](https://github.com/zhaozhirui/CTDNet)
 32 | **NeurIPS** | Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction | [Paper](https://proceedings.neurips.cc/paper/2021/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)/Code   
 33 | **NeurIPS** | Discovering Dynamic Salient Regions for Spatio-Temporal Graph Neural Networks | [Paper](https://proceedings.neurips.cc/paper/2021/file/398410ece9d7343091093a2a7f8ee381-Paper.pdf)/[Code](https://github.com/bit-ml/DyReg-GNN) 
 34 | **IEEE TIP** | Progressive Self-Guided Loss for Salient Object Detection | [Paper](https://arxiv.org/pdf/2101.02412.pdf)/[Code](https://github.com/ysyscool/PSGLoss) 
