@@ -32,8 +32,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ![avatar](Imgs/Scope.png)
 
 ## 3. Evaluation Code
-Matlab: 
-Python: 
+Link: https://github.com/mczhuge/SOCToolbox
 
 ## 2. 2D RGB Saliency Detection Models
 
