@@ -316,9 +316,9 @@ Co-SOD, 360° Video SOD, and Video SOD.
 02 | LEGS | CVPR | 2015 | Deep networks for saliency detection via local estimation and global search | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Wang_Deep_Networks_for_2015_CVPR_paper.pdf)/[Code](https://github.com/huchuanlu/15_3)
 03 | MC | CVPR | 2015 | Saliency detection by multi-context deep learning | [Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhao_Saliency_Detection_by_2015_CVPR_paper.pdf)/[Code]
 04 | MDF | CVPR | 2015 | Visual saliency based on multiscale deep features | [Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_Visual_Saliency_Based_2015_CVPR_paper.pdf)/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
+05 | DISC | TNNLS | 2016 | DISC: Deep image saliency computing via progressive representation learning | [Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/07372470.pdf)/[Code]
+06 | DSL | TCSVT | 2016 | Dense and Sparse Labeling with Multi-Dimensional Features for Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/07802636.pdf)/[Code]
+07 | DS | TIP | 2016 | DeepSaliency: Multi-task deep neural network model for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/07488288.pdf)/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
