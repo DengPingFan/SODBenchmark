@@ -308,7 +308,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 :-: | :-: | :-  | :-: 
 01 | **CVPR** | DHSNet: Deep hierarchical saliency network for salient object detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf)/[Code](https://github.com/GuanWenlong/DHSNet-PyTorch)
 02 | **CVPR** | ELD: Deep Saliency with Encoded Low level Distance Map and High Level Features | [Paper](http://www.arxiv.org/pdf/1604.05495v1.pdf)/[Code](https://github.com/gylee1103/SaliencyELD)
-03 | **ECCV** | RFCN: Saliency detection with recurrent fully convolutional networks | [Paper](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf)/[Code](https://github.com/zengxianyu/RFCN)
 
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
@@ -320,10 +319,10 @@ Co-SOD, 360° Video SOD, and Video SOD.
 06 | DSL | TCSVT | 2016 | Dense and Sparse Labeling with Multi-Dimensional Features for Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/07802636.pdf)/[Code]
 07 | DS | TIP | 2016 | DeepSaliency: Multi-task deep neural network model for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/07488288.pdf)/[Code]
 08 | SSD | ECCV | 2016 | A shape-based approach for salient object detection using deep learning | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_28)/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
+09 | CRPSD | ECCV | 2016 | Saliency Detection via Combining Region-Level and Pixel-Level Predictions with CNNs | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_49)/[Code]
+10 | RFCN | ECCV | 2016 | Saliency detection with recurrent fully convolutional networks | [Paper](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf)/[Code](https://github.com/zengxianyu/RFCN)
+11 | RFCN | TPAMI | 2019 | Salient object detection with recurrent fully convolutional networks | [Paper](https://ieeexplore.ieee.org/iel7/34/4359286/08382302.pdf)/[Code]
+12 | MAP | CVPR | 2016 | Unconstrained salient object detection via proposal subset optimization | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Unconstrained_Salient_Object_CVPR_2016_paper.pdf)/[Code]
+13 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
 
