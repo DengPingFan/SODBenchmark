@@ -304,8 +304,8 @@ Co-SOD, 360° Video SOD, and Video SOD.
 53 | ICNet | CVPR | 2019 | An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf)/Code
 53 | PAGE-Net | CVPR | 2019 | Salient Object Detection with Pyramid Attention and Salient Edge | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Salient_Object_Detection_With_Pyramid_Attention_and_Salient_Edges_CVPR_2019_paper.pdf)/[Code]
 53 | CPD | CVPR | 2019 | Cascaded Partial Decoder for Accurate and Fast Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.08739.pdf)/[Code](https://github.com/wuzhe71/CPD-CVPR2019)
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | MLMSNet | CVPR | 2019 | A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
+53 | AFNet | CVPR | 2019 | Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
@@ -324,11 +324,11 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## 2019       
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **CVPR** | AFNet: Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
+01 | **CVPR** | 
 02 | **CVPR** | 
 03 | **CVPR** | 
 04 | **CVPR** | 
-05 | **CVPR** | MLMSNet:A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
+05 | **CVPR** | 
 06 | **CVPR** | 
 07 | **CVPR** | PoolNet: A Simple Pooling-Based Design for Real-Time Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.09569.pdf)/[Code](https://github.com/backseason/PoolNet) 
 08 | **CVPR** | 
