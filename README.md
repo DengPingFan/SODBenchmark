@@ -284,3 +284,14 @@ Co-SOD, 360° Video SOD, and Video SOD.
 148 | ICON | TPAMI-Minor | 2022 | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/abs/2101.07663)/[Code](https://github.com/mczhuge/ICON) 
 149 | SOC-DataAug | TPAMI-Minor | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
 150 | BAS | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
+
+## 4. Citation
+
+Please cite our paper if you use our results: 
+
+    @article{fan2021salient,
+       title={Salient objects in clutter},
+       author={Fan, Deng-Ping and Zhang, Jing and Xu, Gang and Cheng, Ming-Ming and Shao, Ling},
+       journal={arXiv preprint arXiv:2105.03053},
+       year={2021}
+    }
