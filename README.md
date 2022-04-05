@@ -1,4 +1,4 @@
-# Salient objects in clutter (TPAMI2022-Minor)
+# Salient objects in clutter (TPAMI2022)
 
 > Authors:
 > [Deng-Ping Fan](https://dengpingfan.github.io/), 
