@@ -313,7 +313,7 @@ saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/pape
 43 | RAS | ECCV | 2018 | Reverse Attention for Salient Object Detection | [Paper](http://arxiv.org/pdf/1807.09940)/[Code](https://github.com/ShuhanChen/RAS_ECCV18)
 44 | LPSNet | CVPR | 2018 | Learning to promote saliency detectors | [Paper](https://pan.baidu.com/s/1QvDmqruH8oU51_GrgsuXoA)/[Code](https://github.com/zengxianyu/lps)
 45 | RSOD | CVPR | 2018 | Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code]
-46 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code]
+46 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code](https://github.com/kris-singh/Deep-Unsupervised-Saliency-Detection)
 47 | ASNet | CVPR | 2018 | Salient Object Detection Driven by Fixation Prediction | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf)/[Code](https://github.com/wenguanwang/ASNet)
 48 | ASNet | TPAMI | 2019 | Inferring Salient Objects from Human Fixations | [Paper](https://ieeexplore.ieee.org/iel7/34/4359286/08668551.pdf)/[Code]
 49 | BDMPM | CVPR | 2018 | A Bi-Directional Message Passing Model for Salient Object Detection | [Paper](https://pan.baidu.com/s/1akKVVipD8vIIv0XFrWND5Q)/[Code](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection) 
@@ -323,11 +323,19 @@ saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/pape
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-15 | **CVPR** | Deep Unsupervised Saliency Detection: A Multiple Noisy Labeling Perspective | [Paper](https://arxiv.org/abs/1803.10910)/[Code](https://github.com/kris-singh/Deep-Unsupervised-Saliency-Detection)
 11 | **IEEE TIP** | An unsupervised game-theoretic approach to saliency detection | [Paper](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)/[Code](https://github.com/zengxianyu/uga)
 12 | **arXiv** | Agile Amulet: Real-Time Salient Object Detection with Contextual Attention | [Paper](http://arxiv.org/pdf/1802.06960)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
 13 | **arXiv** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
