@@ -306,22 +306,23 @@ Co-SOD, 360° Video SOD, and Video SOD.
 37 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and
 saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
 38 | ASMO | AAAI | 2018 | Weakly supervised salient object detection using image labels | [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12308/12167)/[Code]
-38 | RADF | AAAI | 2018 | Recurrently aggregating deep features for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12298/12157)/[Code]
-38 | R3Net | IJCAI | 2018 | R3net: Recurrent residual refinement network for saliency detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code]
-38 | C2SNet | ECCV | 2018 | Contour Knowledge Transfer for Salient Object Detection | [Paper](http://link-springer-com-s.vpn.whu.edu.cn:9440/content/pdf/10.1007/978-3-030-01267-0_22.pdf)/[Code](https://github.com/lixin666/C2SNet)
-38 | RAS | ECCV | 2018 | Reverse Attention for Salient Object Detection | [Paper](http://arxiv.org/pdf/1807.09940)/[Code](https://github.com/ShuhanChen/RAS_ECCV18)
-38 | LPSNet | CVPR | 2018 | Learning to promote saliency detectors | [Paper](https://pan.baidu.com/s/1QvDmqruH8oU51_GrgsuXoA)/[Code](https://github.com/zengxianyu/lps)
-38 | RSOD | CVPR | 2018 | Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code]
-38 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code]
-38 | ASNet | CVPR | 2018 | Salient Object Detection Driven by Fixation Prediction | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf)/[Code](https://github.com/wenguanwang/ASNet)
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+39 | RADF | AAAI | 2018 | Recurrently aggregating deep features for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12298/12157)/[Code]
+40 | R3Net | IJCAI | 2018 | R3net: Recurrent residual refinement network for saliency detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code]
+41 | LFR | IJCAI | 2018 | Salient Object Detection by Lossless Feature Reflection | [Paper](https://pan.baidu.com/s/1DAyPHe_z0LJpKK8DxKF2dg)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
+42 | C2SNet | ECCV | 2018 | Contour Knowledge Transfer for Salient Object Detection | [Paper](http://link-springer-com-s.vpn.whu.edu.cn:9440/content/pdf/10.1007/978-3-030-01267-0_22.pdf)/[Code](https://github.com/lixin666/C2SNet)
+43 | RAS | ECCV | 2018 | Reverse Attention for Salient Object Detection | [Paper](http://arxiv.org/pdf/1807.09940)/[Code](https://github.com/ShuhanChen/RAS_ECCV18)
+44 | LPSNet | CVPR | 2018 | Learning to promote saliency detectors | [Paper](https://pan.baidu.com/s/1QvDmqruH8oU51_GrgsuXoA)/[Code](https://github.com/zengxianyu/lps)
+45 | RSOD | CVPR | 2018 | Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code]
+46 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code]
+47 | ASNet | CVPR | 2018 | Salient Object Detection Driven by Fixation Prediction | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf)/[Code](https://github.com/wenguanwang/ASNet)
+48 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+49 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+50 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+51 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+52 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
@@ -329,11 +330,9 @@ saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/pape
 01 | **CVPR** | A Bi-Directional Message Passing Model for Salient Object Detection | [Paper](https://pan.baidu.com/s/1akKVVipD8vIIv0XFrWND5Q)/[Code](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection)  
 02 | **CVPR** | PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection | [Paper](http://arxiv.org/abs/1708.06433)/[Code](https://github.com/Ugness/PiCANet-Implementation)
 03 | **CVPR** | PAGR: Progressive Attention Guided Recurrent Network for Salient Object Detection | [Paper](https://github.com/zhangxiaoning666/PAGR)/[Code](https://github.com/yangbinb/SalMetric/tree/master/PAGRN)
-04 | **CVPR** | 
 05 | **CVPR** | Detect Globally, Refine Locally: A Novel Approach to Saliency Detection | [Paper](https://pan.baidu.com/s/1ydLI0koPfndehqMOAwrK_Q)/[Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally)
-06 | **CVPR** | 
 07 | **IJCAI** | R3Net: Recurrent Residual Refinement Network for Saliency Detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code](https://github.com/zijundeng/R3Net)
-08 | **IJCAI** | LFR: Salient Object Detection by Lossless Feature Reflection | [Paper](https://pan.baidu.com/s/1DAyPHe_z0LJpKK8DxKF2dg)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
+
 11 | **IEEE TIP** | An unsupervised game-theoretic approach to saliency detection | [Paper](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)/[Code](https://github.com/zengxianyu/uga)
 12 | **arXiv** | Agile Amulet: Real-Time Salient Object Detection with Contextual Attention | [Paper](http://arxiv.org/pdf/1802.06960)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
 13 | **arXiv** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
