@@ -196,34 +196,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 35 | **IEEE TMM** | Dense Attention-guided Cascaded Network for Salient Object Detection of Strip Steel Surface Defects | [Paper](https://ieeexplore.ieee.org/document/9632537)/[Code](https://github.com/zxforchid/DACNet) 
 
 
-
-
-## 2020       
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **AAAI** | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/[Code](https://github.com/chenquan-cq/PFPN)       
-02 | **AAAI** | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet)     
-03 | **AAAI** | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)    
-04 | **AAAI** | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://cse.sc.edu/~songwang/document/aaai20b.pdf)/Code 
-05 | **AAAI** | Multi-Type Self-Attention Guided Degraded Saliency Detection | [Paper](https://cse.sc.edu/~songwang/document/aaai20a.pdf)/Code 
-06 | **CVPR** | Weakly-Supervised Salient Object Detection via Scribble Annotations | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
-07 | **CVPR** | Taking a Deeper Look at the Co-salient Object Detection | [Paper](http://dpfan.net/wp-content/uploads/CoSalBenchmark_CVPR2020.pdf)/[Code](http://dpfan.net/CoSOD3K/)  
-08 | **CVPR** | Multi-scale Interactive Network for Salient Object Detection | [Paper](https://drive.google.com/file/d/1gUYu0hO_8Xc5jgpzetuOVFDrqeSOiKZN/view?usp=sharing)/[Code](https://github.com/lartpang/MINet)  
-09 | **CVPR** | Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/moothes/ITSD-pytorch)  
-10 | **CVPR** | Label Decoupling Framework for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/weijun88/LDF)  
-11 | **CVPR** | Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)/Code
-12 | **ECCV** | Highly Efficient Salient Object Detection with 100K Parameters | [Paper](http://mftp.mmcheng.net/Papers/20EccvSal100k.pdf)/[Code](https://github.com/MCG-NKU/Sal100K)
-13 | **ECCV** | n-Reference Transfer Learning for Saliency Prediction | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530494.pdf)/[Code](https://github.com/luoyan407/n-reference)   
-14 | **ECCV** | Gradient-Induced Co-Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570443.pdf)/[Code](http://zhaozhang.net/coca.html)   
-13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)/[Code](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)  
-15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
-17 | **IEEE TIP** | CAGNet: Content-Aware Guidance for Salient Object Detection | [Paper](https://arxiv.org/abs/1911.13168)/[Code](https://github.com/Mehrdad-Noori/CAGNet)
-18 | **IEEE TCYB** | Lightweight Salient Object Detection via Hierarchical Visual Perception Learning | [Paper](https://ieeexplore.ieee.org/document/9285193)/[Code](https://github.com/yun-liu/FastSaliency)
-19 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
-20 | **NeurIPS** | Few-Cost Salient Object Detection with Adversarial-Paced Learning | [Paper](https://papers.nips.cc/paper/2020/file/8fc687aa152e8199fe9e73304d407bca-Paper.pdf)/[Code](https://papers.nips.cc/paper/2020/file/8fc687aa152e8199fe9e73304d407bca-Supplemental.zip)
-21 | **NeurIPS** | ICNet: Intra-saliency Correlation Network for Co-Saliency Detection | [Paper](https://proceedings.neurips.cc/paper/2020/file/d961e9f236177d65d21100592edb0769-Paper.pdf)/[Code](https://github.com/blanclist/ICNet)
-
-
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
 01 | SuperCNN | IJCV | 2015 | A superpixelwise convolutional neural network for salient object detection | [Paper](https://link.springer.com/article/10.1007/s11263-015-0822-0)/[Code]
@@ -318,36 +290,53 @@ Co-SOD, 360° Video SOD, and Video SOD.
 PoolNet: 
 90 | DeepUSPS | NeurIPS | 2019 | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
 91 | EAI | ICLR | 2019 | Efficient Saliency Maps for Explainable AI | [Paper](https://arxiv.org/pdf/1911.11293)/[Code]
-
-
-
-
-91 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
 54 | DFI | TIP | 2020 | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
 55 | CALoss | TIP | 2020 | Contour-aware loss: Boundary-aware learning for salient object segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/9263394/09262030.pdf)/[Code]
 54 | EGNL | TCSVT | 2020 | Edge-guided non-local fully convolutional network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/09036909.pdf)/[Code]
 54 | CAGNet | PR | 2020 | CAGNet: Content-aware guidance for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320301072)/[Code]
+
+
+
+91 | PFPNet | AAAI | 2020 | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/[Code](https://github.com/chenquan-cq/PFPN) 
+53 | F3Net | AAAI | 2020 | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)  
+53 | GCPANet | AAAI | 2020 | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet) 
+53 | ADASOD | AAAI | 2020 | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://cse.sc.edu/~songwang/document/aaai20b.pdf)/Code 
+53 | MTSA | AAAI | 2020 | Multi-Type Self-Attention Guided Degraded Saliency Detection | [Paper](https://cse.sc.edu/~songwang/document/aaai20a.pdf)/Code
+53 | ScrSOD | CVPR | 2020 | Weakly-Supervised Salient Object Detection via Scribble Annotations | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Weakly-Supervised_Salient_Object_Detection_via_Scribble_Annotations_CVPR_2020_paper.pdf)/[Code](https://github.com/JingZhang617/Scribble_Saliency)  
+53 | MINet | CVPR | 2020 | Multi-scale Interactive Network for Salient Object Detection | [Paper](https://drive.google.com/file/d/1gUYu0hO_8Xc5jgpzetuOVFDrqeSOiKZN/view?usp=sharing)/[Code](https://github.com/lartpang/MINet)  
+53 | ITSD | CVPR | 2020 | Interactive Two-Stream Decoder for Accurate and Fast Saliency Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Interactive_Two-Stream_Decoder_for_Accurate_and_Fast_Saliency_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/moothes/ITSD-pytorch)  
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+
 54 | DNA | T-Cybernetics | 2021 | DNA: Deeply supervised nonlinear aggregation for salient object detection | [Paper](xxx)/[Code]
 
+## 2020       
+**No.** | **Pub.** | **Title** | **Links** 
+:-: | :-: | :-  | :-: 
+08 | **CVPR** | 
+09 | **CVPR** | 
+10 | **CVPR** | Label Decoupling Framework for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Label_Decoupling_Framework_for_Salient_Object_Detection_CVPR_2020_paper.pdf)/[Code](https://github.com/weijun88/LDF)  
+11 | **CVPR** | Adaptive Graph Convolutional Network with Attention Graph Clustering for Co-saliency Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Adaptive_Graph_Convolutional_Network_With_Attention_Graph_Clustering_for_Co-Saliency_CVPR_2020_paper.pdf)/Code
+12 | **ECCV** | Highly Efficient Salient Object Detection with 100K Parameters | [Paper](http://mftp.mmcheng.net/Papers/20EccvSal100k.pdf)/[Code](https://github.com/MCG-NKU/Sal100K)
+13 | **ECCV** | n-Reference Transfer Learning for Saliency Prediction | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530494.pdf)/[Code](https://github.com/luoyan407/n-reference)   
+14 | **ECCV** | Gradient-Induced Co-Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570443.pdf)/[Code](http://zhaozhang.net/coca.html)   
+13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)/[Code](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)  
+15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
+17 | **IEEE TIP** | CAGNet: Content-Aware Guidance for Salient Object Detection | [Paper](https://arxiv.org/abs/1911.13168)/[Code](https://github.com/Mehrdad-Noori/CAGNet)
+18 | **IEEE TCYB** | Lightweight Salient Object Detection via Hierarchical Visual Perception Learning | [Paper](https://ieeexplore.ieee.org/document/9285193)/[Code](https://github.com/yun-liu/FastSaliency)
+19 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
+20 | **NeurIPS** | Few-Cost Salient Object Detection with Adversarial-Paced Learning | [Paper](https://papers.nips.cc/paper/2020/file/8fc687aa152e8199fe9e73304d407bca-Paper.pdf)/[Code](https://papers.nips.cc/paper/2020/file/8fc687aa152e8199fe9e73304d407bca-Supplemental.zip)
+21 | **NeurIPS** | ICNet: Intra-saliency Correlation Network for Co-Saliency Detection | [Paper](https://proceedings.neurips.cc/paper/2020/file/d961e9f236177d65d21100592edb0769-Paper.pdf)/[Code](https://github.com/blanclist/ICNet)
 
 
