@@ -217,7 +217,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 14 | **ECCV** | Gradient-Induced Co-Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570443.pdf)/[Code](http://zhaozhang.net/coca.html)   
 13 | **ECCV** | Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620341.pdf)/[Code](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)  
 15 | **ECCV** | Suppress and Balance: A Simple Gated Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/2007.08074.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency) 
-16 | **IEEE TIP** | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
 17 | **IEEE TIP** | CAGNet: Content-Aware Guidance for Salient Object Detection | [Paper](https://arxiv.org/abs/1911.13168)/[Code](https://github.com/Mehrdad-Noori/CAGNet)
 18 | **IEEE TCYB** | Lightweight Salient Object Detection via Hierarchical Visual Perception Learning | [Paper](https://ieeexplore.ieee.org/document/9285193)/[Code](https://github.com/yun-liu/FastSaliency)
 19 | **NeurIPS** | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20)
@@ -279,8 +278,8 @@ Co-SOD, 360° Video SOD, and Video SOD.
 50 | DGRL | CVPR | 2018 | Detect Globally, Refine Locally: A Novel Approach to Saliency Detection | [Paper](https://pan.baidu.com/s/1ydLI0koPfndehqMOAwrK_Q)/[Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally) 
 51 | PiCANet | CVPR | 2018 | PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection | [Paper](http://arxiv.org/abs/1708.06433)/[Code](https://github.com/Ugness/PiCANet-Implementation)
 52 | PAGR | CVPR | 2018 | Progressive Attention Guided Recurrent Network for Salient Object Detection | [Paper](https://github.com/zhangxiaoning666/PAGR)/[Code](https://github.com/yangbinb/SalMetric/tree/master/PAGRN)
-53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | DANet | JSTSP | 2019 | Distortion-adaptive Salient Object Detection in 360∘ Omnidirectional Images | [Paper](https://ieeexplore.ieee.org/iel7/4200690/5418892/08926489.pdf)/[Code]
+54 | RSR | TPAMI | 2019 | Relative Saliency and Ranking: Models, Metrics, Data and Benchmarks | [Paper](https://ieeexplore.ieee.org/iel7/34/9280439/08756097.pdf)/[Code]
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
@@ -289,24 +288,14 @@ Co-SOD, 360° Video SOD, and Video SOD.
 54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-
-
+54 | DFI | TIP | 2020 | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
 55 | CALoss | TIP | 2020 | Contour-aware loss: Boundary-aware learning for salient object segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/9263394/09262030.pdf)/[Code]
-
-
 54 | EGNL | TCSVT | 2020 | Edge-guided non-local fully convolutional network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/09036909.pdf)/[Code]
-
 54 | CAGNet | PR | 2020 | CAGNet: Content-aware guidance for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320301072)/[Code]
-
-
 54 | DNA | T-Cybernetics | 2021 | DNA: Deeply supervised nonlinear aggregation for salient object detection | [Paper](xxx)/[Code]
 
 
 
-13 | **PR** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
-
-Dynamic feature integration for simultaneous detection of salient object, edge, and skeleton
 
 ## 2019       
 **No.** | **Pub.** | **Title** | **Links** 
