@@ -326,8 +326,8 @@ Co-SOD, 360° Video SOD, and Video SOD.
 14 | RACDNN | CVPR | 2016 | Recurrent attentional networks for saliency detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.pdf)/[Code]
 15 | ELD | CVPR | 2016 | Deep Saliency with Encoded Low level Distance Map and High Level Features | [Paper](http://www.arxiv.org/pdf/1604.05495v1.pdf)/[Code](https://github.com/gylee1103/SaliencyELD)
 16 | DHS | CVPR | 2016 | DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf)/[Code](https://github.com/GuanWenlong/DHSNet-PyTorch)
-17 | DCL | CVPR | 2016 | xx | [Paper]()/[Code]
-18 | xx | xx | 2016 | xx | [Paper]()/[Code]
+17 | DCL | CVPR | 2016 | Deep Contrast Learning for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Li_Deep_Contrast_Learning_CVPR_2016_paper.pdf)/[Code]
+18 | DSRCNN | ACMMM | 2016 | Deeply-Supervised Recurrent Convolutional Neural Network for Saliency Detection | [Paper](https://dl.acm.org/doi/pdf/10.1145/2964284.2967250)/[Code]
 19 | xx | xx | 2016 | xx | [Paper]()/[Code]
 20 | xx | xx | 2016 | xx | [Paper]()/[Code]
 21 | xx | xx | 2016 | xx | [Paper]()/[Code]
