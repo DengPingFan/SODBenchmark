@@ -291,12 +291,9 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## 2017
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **CVPR** | 
-02 | **CVPR** | 
 04 | **CVPR** | SalGAN: visual saliency prediction with adversarial networks | [Paper](http://arxiv.org/abs/1701.01081)/[Code](https://github.com/Pchank/caffe-sal)
-06 | **ICCV** | Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Amulet_Aggregating_Multi-Level_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
-07 | **ICCV** | Learning Uncertain Convolutional Features for Accurate Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Uncertain_Convolutional_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
-08 | **ICCV** | Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector  | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Supervision_by_Fusion_ICCV_2017_paper.pdf)/[Code](https://github.com/zhangyuygss/SVFSal.caffe)
+
+
 
 
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
@@ -326,16 +323,17 @@ Co-SOD, 360° Video SOD, and Video SOD.
 23 | WSS | CVPR | 2017 | Learning to Detect Salient Objects with Image-level Supervision | [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Learning_to_Detect_CVPR_2017_paper.pdf)/[Code](https://github.com/scott89/WSS)
 24 | SRM | ICCV | 2017 | A stagewise refinement model for detecting salient objects in images | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_A_Stagewise_Refinement_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
 25 | NLDF | CVPR | 2017 | Non-Local Deep Features for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Luo_Non-Local_Deep_Features_CVPR_2017_paper.pdf)/[Code](https://github.com/zhimingluo/NLDF)
-26 | DSS | CVPR | 2017 | Deeply Supervised Salient Object Detection with Short Connections | [Paper](http://arxiv.org/abs/1611.04849)/[Code](https://github.com/Andrew-Qibin/DSS)
-27 | xx | xx | 2017 | xx | [Paper]()/[Code]
-28 | xx | xx | 2017 | xx | [Paper]()/[Code]
-29 | xx | xx | 2017 | xx | [Paper]()/[Code]
-30 | xx | xx | 2017 | xx | [Paper]()/[Code]
-31 | xx | xx | 2017 | xx | [Paper]()/[Code]
-32 | xx | xx | 2017 | xx | [Paper]()/[Code]
-33 | xx | xx | 2016 | xx | [Paper]()/[Code]
-34 | xx | xx | 2016 | xx | [Paper]()/[Code]
+26 | DSS | CVPR/TPAMI | 2017/2019 | Deeply Supervised Salient Object Detection with Short Connections | [Paper](http://arxiv.org/abs/1611.04849)/[Code](https://github.com/Andrew-Qibin/DSS)
+27 | SalGAN | CVPR | 2017 | SalGAN: visual saliency prediction with adversarial networks | [Paper](http://arxiv.org/abs/1701.01081)/[Code](https://github.com/Pchank/caffe-sal)
+28 | FSN | ICCV | 2017 | Look, perceive and segment: Finding the salient objects in images via two-stream fixation-semantic cnns | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Look_Perceive_and_ICCV_2017_paper.pdf)/[Code]
+29 | DSOS | ICCV | 2017 | Delving into Salient Object Subitizing and Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Delving_Into_Salient_ICCV_2017_paper.pdf)/[Code]
+30 | SVF | ICCV | 2017 | Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector  | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Supervision_by_Fusion_ICCV_2017_paper.pdf)/[Code](https://github.com/zhangyuygss/SVFSal.caffe)
+31 | UCF | ICCV | 2017 | Learning Uncertain Convolutional Features for Accurate Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Uncertain_Convolutional_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
+32 | AMU | ICCV | 2017 | Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Amulet_Aggregating_Multi-Level_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
+33 | UGA | TIP | 2017 | An Unsupervised Game-Theoretic Approach to Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08361890.pdf)/[Code]
+34 | Refinet | TMM | 2018 | Refinet A deep segmentation assisted refinement network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08419317.pdf)/[Code]
 35 | xx | xx | 2016 | xx | [Paper]()/[Code]
 36 | xx | xx | 2016 | xx | [Paper]()/[Code]
 37 | xx | xx | 2016 | xx | [Paper]()/[Code]
+38 | xx | xx | 2016 | xx | [Paper]()/[Code]
 
