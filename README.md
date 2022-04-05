@@ -262,63 +262,61 @@ Co-SOD, 360° Video SOD, and Video SOD.
 34 | Refinet | TMM | 2018 | Refinet A deep segmentation assisted refinement network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08419317.pdf)/[Code]
 35 | MSED | Neurocomputing | 2018 | Multi-scale deep encoder-decoder network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231218308907)/[Code]
 36 | EARNet | T-Cybernetics | 2018 | Embedding Attention and Residual Network for Accurate Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/6221036/9068331/08546752.pdf)/[Code]
-53 | LFCS | T-Cybernetics | 2018 | Semi-Supervised Salient Object Detection Using a Linear Feedback Control System Model | [Paper](https://ieeexplore.ieee.org/iel7/6221036/6352949/08334814.pdf)/[Code]
-37 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
-38 | ASMO | AAAI | 2018 | Weakly supervised salient object detection using image labels | [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12308/12167)/[Code]
-39 | RADF | AAAI | 2018 | Recurrently aggregating deep features for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12298/12157)/[Code]
-40 | R3Net | IJCAI | 2018 | R3net: Recurrent residual refinement network for saliency detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code]
-41 | LFR | IJCAI | 2018 | Salient Object Detection by Lossless Feature Reflection | [Paper](https://pan.baidu.com/s/1DAyPHe_z0LJpKK8DxKF2dg)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
-42 | C2SNet | ECCV | 2018 | Contour Knowledge Transfer for Salient Object Detection | [Paper](http://link-springer-com-s.vpn.whu.edu.cn:9440/content/pdf/10.1007/978-3-030-01267-0_22.pdf)/[Code](https://github.com/lixin666/C2SNet)
-43 | RAS | ECCV | 2018 | Reverse Attention for Salient Object Detection | [Paper](http://arxiv.org/pdf/1807.09940)/[Code](https://github.com/ShuhanChen/RAS_ECCV18)
-44 | LPSNet | CVPR | 2018 | Learning to promote saliency detectors | [Paper](https://pan.baidu.com/s/1QvDmqruH8oU51_GrgsuXoA)/[Code](https://github.com/zengxianyu/lps)
-45 | RSOD | CVPR | 2018 | Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code]
-46 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code](https://github.com/kris-singh/Deep-Unsupervised-Saliency-Detection)
-47 | ASNet | CVPR | 2018 | Salient Object Detection Driven by Fixation Prediction | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf)/[Code](https://github.com/wenguanwang/ASNet)
-48 | ASNet | TPAMI | 2019 | Inferring Salient Objects from Human Fixations | [Paper](https://ieeexplore.ieee.org/iel7/34/4359286/08668551.pdf)/[Code]
-49 | BDMPM | CVPR | 2018 | A Bi-Directional Message Passing Model for Salient Object Detection | [Paper](https://pan.baidu.com/s/1akKVVipD8vIIv0XFrWND5Q)/[Code](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection) 
-50 | DGRL | CVPR | 2018 | Detect Globally, Refine Locally: A Novel Approach to Saliency Detection | [Paper](https://pan.baidu.com/s/1ydLI0koPfndehqMOAwrK_Q)/[Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally) 
-51 | PiCANet | CVPR | 2018 | PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection | [Paper](http://arxiv.org/abs/1708.06433)/[Code](https://github.com/Ugness/PiCANet-Implementation)
-52 | PAGR | CVPR | 2018 | Progressive Attention Guided Recurrent Network for Salient Object Detection | [Paper](https://github.com/zhangxiaoning666/PAGR)/[Code](https://github.com/yangbinb/SalMetric/tree/master/PAGRN)
-53 | DANet | JSTSP | 2019 | Distortion-adaptive Salient Object Detection in 360∘ Omnidirectional Images | [Paper](https://ieeexplore.ieee.org/iel7/4200690/5418892/08926489.pdf)/[Code]
-54 | RSR | TPAMI | 2019 | Relative Saliency and Ranking: Models, Metrics, Data and Benchmarks | [Paper](https://ieeexplore.ieee.org/iel7/34/9280439/08756097.pdf)/[Code]
-55 | Hyperfusion-Net | PR | 2019 | Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301876)/[Code]
-53 | Deepside | Neurocomputing | 2019 | Deepside: A General Deep Framework for Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219306484)/[Code]
-55 | LVNet | TGRS | 2019 | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/iel7/36/8887423/08793227.pdf)/[Code]
-54 | LFRWS | TIP | 2019 | Salient Object Detection with Lossless Feature Reflection and Weighted Structural Loss | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08618369.pdf)/[Code]
-53 | FBG | TIP | 2019 | Focal Boundary Guided Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08603790.pdf)/[Code]
-55 | ConnNet | TIP | 2019 | ConnNet: A long-range relation-aware pixel-connectivity network for salient segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08576646.pdf)/[Code]
-53 | CIG | TIP | 2019 | Deep Salient Object Detection with Contextual Information Guidance | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08782147.pdf)/[Code]
-53 | SPA | TIP | 2019 | Semantic Prior Analysis for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08624611.pdf)/[Code]
-55 | CDMG | TIP | 2019 | Weakly Supervised Salient Object Detection by Learning A Classifier-Driven Map Generator | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08720239.pdf)/[Code]
-54 | CCAL | TMM | 2019 | Salient Object Detectioin Using Cascaded Convolutional Neural Networks and Adversarial Learning | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08649755.pdf)/[Code]
-54 | SIA | TMM | 2019 | Saliency Integration An Arbitrator Model | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08411135.pdf)/[Code]
-53 | MIJR | TCSVT | 2019 | Salient Object Detection via Multiple Instance Joint Re-Learning | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08768013.pdf)/[Code]
-55 | AADF | TCSVT | 2019 | Aggregating Attentional Dilated Features for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/08836095.pdf)/[Code]
-55 | SSNet | TPAMI | 2019 | Synthesizing Supervision for Learning Deep Saliency Network without Human Annotation | [Paper](https://ieeexplore.ieee.org/iel7/34/9108332/08645692.pdf)/[Code]
-53 | DEF | AAAI | 2019 | Deep Embedding Features for Salient Object Detection | [Paper](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw)/Code
-53 | SuperVAE | AAAI | 2019 | Supervae: Superpixelwise variational autoencoder for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4876/4749)/[Code]
-53 | CapSal | CVPR | 2019 | CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)/[Code](https://github.com/zhangludl/code-and-dataset-for-CapSal)
-53 | BASNet | CVPR | 2019 | BASNet: Boundary Aware Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html)/[Code](https://github.com/NathanUA/BASNet) 
-53 | PFANet | CVPR | 2019 | Pyramid Feature Attention Network for Saliency detection | [Paper](https://arxiv.org/pdf/1903.00179.pdf)/[Code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)
-53 | MWS | CVPR | 2019 | Multi-source weak supervision for saliency detection | [Paper](https://arxiv.org/pdf/1904.00566.pdf)/[Code](https://github.com/zengxianyu/mws)
-53 | ICNet | CVPR | 2019 | An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf)/Code
-53 | PAGE-Net | CVPR | 2019 | Salient Object Detection With Pyramid Attention and Salient Edges | [Paper](https://www.researchgate.net/publication/332751907_Salient_Object_Detection_With_Pyramid_Attention_and_Salient_Edges)/[Code](https://github.com/wenguanwang/PAGE-Net)      
-53 | CPD | CVPR | 2019 | Cascaded Partial Decoder for Accurate and Fast Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.08739.pdf)/[Code](https://github.com/wuzhe71/CPD-CVPR2019)
-53 | MLMSNet | CVPR | 2019 | A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
-53 | AFNet | CVPR | 2019 | Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
-53 | DPOR | ICCV | 2019 | Employing Deep Part-Object Relationships for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Employing_Deep_Part-Object_Relationships_for_Salient_Object_Detection_ICCV_2019_paper.pdf)/Code
-53 | SIBA | ICCV | 2019 | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
-53 | JDF | ICCV | 2019 | Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection | [Paper](https://arxiv.org/pdf/1909.04366.pdf)/[Code](https://github.com/xuyingyue/DeepUnifiedCRF_iccv19)
-53 | FLoss | ICCV | 2019 | Optimizing the F-measure for Threshold-free Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Optimizing_the_F-Measure_for_Threshold-Free_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/zeakey/iccv2019-fmeasure)
-53 | HRSOD | ICCV | 2019 | Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
-53 | EGNet | ICCV | 2019 | EGNet: Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
-53 | SCRN | ICCV | 2019 | Stacked Cross Refinement Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Stacked_Cross_Refinement_Network_for_Edge-Aware_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/wuzhe71/SCRN)
-53 | DeepUSPS | NeurIPS | 2019 | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
-53 | EAI | ICLR | 2019 | Efficient Saliency Maps for Explainable AI | [Paper](https://arxiv.org/pdf/1911.11293)/[Code]
-
-
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
-53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+37 | LFCS | T-Cybernetics | 2018 | Semi-Supervised Salient Object Detection Using a Linear Feedback Control System Model | [Paper](https://ieeexplore.ieee.org/iel7/6221036/6352949/08334814.pdf)/[Code]
+38 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
+39 | ASMO | AAAI | 2018 | Weakly supervised salient object detection using image labels | [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12308/12167)/[Code]
+40 | RADF | AAAI | 2018 | Recurrently aggregating deep features for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12298/12157)/[Code]
+41 | R3Net | IJCAI | 2018 | R3net: Recurrent residual refinement network for saliency detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code]
+42 | LFR | IJCAI | 2018 | Salient Object Detection by Lossless Feature Reflection | [Paper](https://pan.baidu.com/s/1DAyPHe_z0LJpKK8DxKF2dg)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
+43 | C2SNet | ECCV | 2018 | Contour Knowledge Transfer for Salient Object Detection | [Paper](http://link-springer-com-s.vpn.whu.edu.cn:9440/content/pdf/10.1007/978-3-030-01267-0_22.pdf)/[Code](https://github.com/lixin666/C2SNet)
+44 | RAS | ECCV | 2018 | Reverse Attention for Salient Object Detection | [Paper](http://arxiv.org/pdf/1807.09940)/[Code](https://github.com/ShuhanChen/RAS_ECCV18)
+45 | LPSNet | CVPR | 2018 | Learning to promote saliency detectors | [Paper](https://pan.baidu.com/s/1QvDmqruH8oU51_GrgsuXoA)/[Code](https://github.com/zengxianyu/lps)
+46 | RSOD | CVPR | 2018 | Revisiting salient object detection: Simultaneous detection, ranking, and subitizing of multiple salient objects | [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Islam_Revisiting_Salient_Object_CVPR_2018_paper.pdf)/[Code]
+47 | DUS | CVPR | 2018 | Deep unsupervised saliency detection: A multiple noisy labeling perspective | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Unsupervised_Saliency_CVPR_2018_paper.pdf)/[Code](https://github.com/kris-singh/Deep-Unsupervised-Saliency-Detection)
+48 | ASNet | CVPR | 2018 | Salient Object Detection Driven by Fixation Prediction | [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf)/[Code](https://github.com/wenguanwang/ASNet)
+49 | ASNet | TPAMI | 2019 | Inferring Salient Objects from Human Fixations | [Paper](https://ieeexplore.ieee.org/iel7/34/4359286/08668551.pdf)/[Code]
+50 | BDMPM | CVPR | 2018 | A Bi-Directional Message Passing Model for Salient Object Detection | [Paper](https://pan.baidu.com/s/1akKVVipD8vIIv0XFrWND5Q)/[Code](https://github.com/zhangludl/A-bi-directional-message-passing-model-for-salient-object-detection) 
+51 | DGRL | CVPR | 2018 | Detect Globally, Refine Locally: A Novel Approach to Saliency Detection | [Paper](https://pan.baidu.com/s/1ydLI0koPfndehqMOAwrK_Q)/[Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally) 
+52 | PiCANet | CVPR | 2018 | PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection | [Paper](http://arxiv.org/abs/1708.06433)/[Code](https://github.com/Ugness/PiCANet-Implementation)
+53 | PAGR | CVPR | 2018 | Progressive Attention Guided Recurrent Network for Salient Object Detection | [Paper](https://github.com/zhangxiaoning666/PAGR)/[Code](https://github.com/yangbinb/SalMetric/tree/master/PAGRN)
+54 | DANet | JSTSP | 2019 | Distortion-adaptive Salient Object Detection in 360∘ Omnidirectional Images | [Paper](https://ieeexplore.ieee.org/iel7/4200690/5418892/08926489.pdf)/[Code]
+55 | RSR | TPAMI | 2019 | Relative Saliency and Ranking: Models, Metrics, Data and Benchmarks | [Paper](https://ieeexplore.ieee.org/iel7/34/9280439/08756097.pdf)/[Code]
+56 | Hyperfusion-Net | PR | 2019 | Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301876)/[Code]
+57 | Deepside | Neurocomputing | 2019 | Deepside: A General Deep Framework for Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219306484)/[Code]
+58 | LVNet | TGRS | 2019 | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/iel7/36/8887423/08793227.pdf)/[Code]
+59 | LFRWS | TIP | 2019 | Salient Object Detection with Lossless Feature Reflection and Weighted Structural Loss | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08618369.pdf)/[Code]
+60 | FBG | TIP | 2019 | Focal Boundary Guided Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08603790.pdf)/[Code]
+61 | ConnNet | TIP | 2019 | ConnNet: A long-range relation-aware pixel-connectivity network for salient segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08576646.pdf)/[Code]
+62 | CIG | TIP | 2019 | Deep Salient Object Detection with Contextual Information Guidance | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08782147.pdf)/[Code]
+63 | SPA | TIP | 2019 | Semantic Prior Analysis for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08624611.pdf)/[Code]
+64 | CDMG | TIP | 2019 | Weakly Supervised Salient Object Detection by Learning A Classifier-Driven Map Generator | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08720239.pdf)/[Code]
+65 | CCAL | TMM | 2019 | Salient Object Detectioin Using Cascaded Convolutional Neural Networks and Adversarial Learning | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08649755.pdf)/[Code]
+66 | SIA | TMM | 2019 | Saliency Integration An Arbitrator Model | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08411135.pdf)/[Code]
+67 | MIJR | TCSVT | 2019 | Salient Object Detection via Multiple Instance Joint Re-Learning | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08768013.pdf)/[Code]
+68 | AADF | TCSVT | 2019 | Aggregating Attentional Dilated Features for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/08836095.pdf)/[Code]
+69 | SSNet | TPAMI | 2019 | Synthesizing Supervision for Learning Deep Saliency Network without Human Annotation | [Paper](https://ieeexplore.ieee.org/iel7/34/9108332/08645692.pdf)/[Code]
+70 | DEF | AAAI | 2019 | Deep Embedding Features for Salient Object Detection | [Paper](https://pan.baidu.com/s/1HfyavmYB2NYUMe8CSe2qCw)/Code
+71 | SuperVAE | AAAI | 2019 | Supervae: Superpixelwise variational autoencoder for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4876/4749)/[Code]
+72 | CapSal | CVPR | 2019 | CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection | [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)/[Code](https://github.com/zhangludl/code-and-dataset-for-CapSal)
+73 | BASNet | CVPR | 2019 | BASNet: Boundary Aware Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html)/[Code](https://github.com/NathanUA/BASNet) 
+74 | PFANet | CVPR | 2019 | Pyramid Feature Attention Network for Saliency detection | [Paper](https://arxiv.org/pdf/1903.00179.pdf)/[Code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)
+75 | MWS | CVPR | 2019 | Multi-source weak supervision for saliency detection | [Paper](https://arxiv.org/pdf/1904.00566.pdf)/[Code](https://github.com/zengxianyu/mws)
+76 | ICNet | CVPR | 2019 | An Iterative and Cooperative Top-down and Bottom-up Inference Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19cvprIterativeSOD.pdf)/Code
+77 | PAGE-Net | CVPR | 2019 | Salient Object Detection With Pyramid Attention and Salient Edges | [Paper](https://www.researchgate.net/publication/332751907_Salient_Object_Detection_With_Pyramid_Attention_and_Salient_Edges)/[Code](https://github.com/wenguanwang/PAGE-Net)      
+78 | CPD | CVPR | 2019 | Cascaded Partial Decoder for Accurate and Fast Salient Object Detection | [Paper](https://arxiv.org/pdf/1904.08739.pdf)/[Code](https://github.com/wuzhe71/CPD-CVPR2019)
+79 | MLMSNet | CVPR | 2019 | A Mutual Learning Method for Salient Object Detection with intertwined Multi-Supervision | [Paper](https://pan.baidu.com/s/1EUxabfnEi_l5-ghUI3_qVQ)/[Code](https://github.com/JosephineRabbit/MLMSNet)
+80 | AFNet | CVPR | 2019 | Attentive Feedback Network for Boundary-aware Salient Object Detection | [Paper](https://pan.baidu.com/s/1n-dRVC4sLWCmhhD5bnVXqg)/[Code](https://github.com/ArcherFMY/AFNet)  
+81 | DPOR | ICCV | 2019 | Employing Deep Part-Object Relationships for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Employing_Deep_Part-Object_Relationships_for_Salient_Object_Detection_ICCV_2019_paper.pdf)/Code
+82 | SIBA | ICCV | 2019 | Selectivity or Invariance: Boundary-aware Salient Object Detection | [Paper](https://arxiv.org/pdf/1812.10066.pdf)/Code
+83 | JDF | ICCV | 2019 | Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection | [Paper](https://arxiv.org/pdf/1909.04366.pdf)/[Code](https://github.com/xuyingyue/DeepUnifiedCRF_iccv19)
+84 | FLoss | ICCV | 2019 | Optimizing the F-measure for Threshold-free Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Optimizing_the_F-Measure_for_Threshold-Free_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/zeakey/iccv2019-fmeasure)
+85 | HRSOD | ICCV | 2019 | Towards High-Resolution Salient Object Detection | [Paper](https://arxiv.org/pdf/1908.07274.pdf)/[Code](https://github.com/yi94code/HRSOD)
+86 | EGNet | ICCV | 2019 | EGNet: Edge Guidance Network for Salient Object Detection | [Paper](http://mftp.mmcheng.net/Papers/19ICCV_EGNetSOD.pdf)/[Code](https://github.com/JXingZhao/EGNet)
+87 | SCRN | ICCV | 2019 | Stacked Cross Refinement Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Stacked_Cross_Refinement_Network_for_Edge-Aware_Salient_Object_Detection_ICCV_2019_paper.pdf)/[Code](https://github.com/wuzhe71/SCRN)
+88 | DeepUSPS | NeurIPS | 2019 | Deep Robust Unsupervised Saliency Prediction With Self-Supervision | [Paper](https://arxiv.org/pdf/1909.13055.pdf)/[Code](https://drive.google.com/file/d/10GlmenXR7nEJyRlmPHouvHP-g9KfUW1F/view)   
+89 | EAI | ICLR | 2019 | Efficient Saliency Maps for Explainable AI | [Paper](https://arxiv.org/pdf/1911.11293)/[Code]
+90 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
+91 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2020 | xxx | [Paper](xxx)/[Code]
