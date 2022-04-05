@@ -291,16 +291,16 @@ So you need to download all of our re-organized datasets, saliency maps of each 
 146 | NSALWSS | TMM | 2022 | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS) 
 147 | ACCoNet | T-Cybernetics | 2022 | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2203.13664.pdf)/[Code](https://github.com/MathLee/ACCoNet) 
 148 | ICON | TPAMI-Minor | 2022 | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/abs/2101.07663)/[Code](https://github.com/mczhuge/ICON) 
-149 | SOC-DataAug | TPAMI-Minor | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
+149 | SOC-DataAug | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
 150 | BAS | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
 
 ## 4. Citation
 
 Please cite our paper if you use our results: 
 
-    @article{fan2021salient,
+    @article{fan2022salient,
        title={Salient objects in clutter},
        author={Fan, Deng-Ping and Zhang, Jing and Xu, Gang and Cheng, Ming-Ming and Shao, Ling},
-       journal={arXiv preprint arXiv:2105.03053},
-       year={2021}
+       journal={IEEE TPAMI},
+       year={2022}
     }
