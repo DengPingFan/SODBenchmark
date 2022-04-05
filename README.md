@@ -300,13 +300,6 @@ Co-SOD, 360° Video SOD, and Video SOD.
 07 | **ICCV** | Learning Uncertain Convolutional Features for Accurate Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Uncertain_Convolutional_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
 08 | **ICCV** | Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector  | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Supervision_by_Fusion_ICCV_2017_paper.pdf)/[Code](https://github.com/zhangyuygss/SVFSal.caffe)
 
- 
-
-
-## 2016
-**No.** | **Pub.** | **Title** | **Links** 
-:-: | :-: | :-  | :-: 
-01 | **CVPR** | DHSNet: Deep hierarchical saliency network for salient object detection | 
 
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
