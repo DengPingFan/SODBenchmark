@@ -36,13 +36,13 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## Traditional Methods (Updated: 2022-04-04)
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
-01 | It | **TPAMI** | **1998** | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [[Paper](https://www.researchgate.net/publication/3192913_A_Model_of_Saliency-based_Visual_Attention_for_Rapid_Scene_Analysis)]/[Code] 
-02 | FG | **ACMMM** | **2003** | Contrast-based image attention analysis by using fuzzy growing | [[Paper](https://dl.acm.org/doi/abs/10.1145/957013.957094)]/[Code] 
-03 | RSA | **ACMMM** | **2005** | Robust subspace analysis for detecting visual attention regions in images | [[Paper](https://dl.acm.org/doi/10.1145/1101149.1101306)]/[Code] 
-04 | AIM | **NIPS** | **2005** | Saliency Based on Information Maximization | [[Paper](https://proceedings.neurips.cc/paper/2005/file/0738069b244a1c43c83112b735140a16-Paper.pdf)]/[Code] 
+01 | It | TPAMI | 1998 | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [[Paper](https://www.researchgate.net/publication/3192913_A_Model_of_Saliency-based_Visual_Attention_for_Rapid_Scene_Analysis)]/[Code] 
+02 | FG | ACMMM | 2003 | Contrast-based image attention analysis by using fuzzy growing | [[Paper](https://dl.acm.org/doi/abs/10.1145/957013.957094)]/[Code] 
+03 | RSA | ACMMM | 2005 | Robust subspace analysis for detecting visual attention regions in images | [[Paper](https://dl.acm.org/doi/10.1145/1101149.1101306)]/[Code] 
+04 | AIM | NeurIPS | 2005 | Saliency Based on Information Maximization | [[Paper](https://proceedings.neurips.cc/paper/2005/file/0738069b244a1c43c83112b735140a16-Paper.pdf)]/[Code] 
 05 |    RE     |      ICME      |   2006   | Region enhanced scale-invariant saliency detection           | [[Paper](https://graphics.cs.wisc.edu/Papers/2006/LG06a/imgsal.pdf)]/[Code] 
 06 |    SR     |      CVPR      |   2007   | Saliency Detection A Spectral Residual Approach              | [[Paper](https://www.researchgate.net/publication/221364530_Saliency_Detection_A_Spectral_Residual_Approach)]/[[Code](https://github.com/uoip/SpectralResidualSaliency)] 
-07 |    GB     |      NIPS      |   2007   | Graph-Based Visual Saliency                                  | [[Paper](https://proceedings.neurips.cc/paper/2006/file/4db0f8b0fc895da263fd77fc8aecabe4-Paper.pdf)]/[[Code](https://github.com/shreelock/gbvs)] 
+07 |    GB     |      NeurIPS      |   2007   | Graph-Based Visual Saliency                                  | [[Paper](https://proceedings.neurips.cc/paper/2006/file/4db0f8b0fc895da263fd77fc8aecabe4-Paper.pdf)]/[[Code](https://github.com/shreelock/gbvs)] 
 08 |    RU     |      TMM       |   2007   | A rule based technique for extraction of visual attention regions based on real-time clustering | [[Paper](https://www.researchgate.net/publication/3424588_A_Rule_Based_Technique_for_Extraction_of_Visual_Attention_Regions_Based_on_Real-Time_Clustering)]/[Code] 
 09 |    SUN    |      JOV       |   2008   | SUN: A bayesian framework for saliency using natural statistics | [[Paper](https://cseweb.ucsd.edu/~gary/pubs/Zhang-et-al-2008-accepted.pdf)]/[[Code](https://github.com/wohlert/bayesian-saliency)] 
 10 |    AC     |      ICVS      |   2008   | Salient region detection and segmentation                    | [[Paper](http://www.cs.toronto.edu/~strider/publications/AES_ICVS08.pdf)]/[[Code](https://github.com/assamite/sdrs_cimg)] 
