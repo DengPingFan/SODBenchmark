@@ -306,8 +306,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 ## 2016
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-01 | **CVPR** | DHSNet: Deep hierarchical saliency network for salient object detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf)/[Code](https://github.com/GuanWenlong/DHSNet-PyTorch)
-02 | **CVPR** | ELD: Deep Saliency with Encoded Low level Distance Map and High Level Features | [Paper](http://www.arxiv.org/pdf/1604.05495v1.pdf)/[Code](https://github.com/gylee1103/SaliencyELD)
+01 | **CVPR** | DHSNet: Deep hierarchical saliency network for salient object detection | 
 
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
@@ -323,6 +322,29 @@ Co-SOD, 360° Video SOD, and Video SOD.
 10 | RFCN | ECCV | 2016 | Saliency detection with recurrent fully convolutional networks | [Paper](http://202.118.75.4/lu/Paper/ECCV2016/0865.pdf)/[Code](https://github.com/zengxianyu/RFCN)
 11 | RFCN | TPAMI | 2019 | Salient object detection with recurrent fully convolutional networks | [Paper](https://ieeexplore.ieee.org/iel7/34/4359286/08382302.pdf)/[Code]
 12 | MAP | CVPR | 2016 | Unconstrained salient object detection via proposal subset optimization | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhang_Unconstrained_Salient_Object_CVPR_2016_paper.pdf)/[Code]
-13 | xx | xx | 2016 | xx | [Paper]()/[Code]
+13 | SU | CVPR | 2016 | Saliency unified: A deep architecture for simultaneous eye fixation prediction and salient object segmentation | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Kruthiventi_Saliency_Unified_A_CVPR_2016_paper.pdf)/[Code]
+14 | RACDNN | CVPR | 2016 | Recurrent attentional networks for saliency detection | [Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.pdf)/[Code]
+15 | ELD | CVPR | 2016 | Deep Saliency with Encoded Low level Distance Map and High Level Features | [Paper](http://www.arxiv.org/pdf/1604.05495v1.pdf)/[Code](https://github.com/gylee1103/SaliencyELD)
+16 | DHS | CVPR | 2016 | DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf)/[Code](https://github.com/GuanWenlong/DHSNet-PyTorch)
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
+14 | xx | xx | 2016 | xx | [Paper]()/[Code]
 14 | xx | xx | 2016 | xx | [Paper]()/[Code]
 
