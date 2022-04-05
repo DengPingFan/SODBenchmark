@@ -288,8 +288,12 @@ Co-SOD, 360° Video SOD, and Video SOD.
 54 | CCAL | TMM | 2019 | Salient Object Detectioin Using Cascaded Convolutional Neural Networks and Adversarial Learning | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08649755.pdf)/[Code]
 55 | ConnNet | TIP | 2019 | ConnNet: A long-range relation-aware pixel-connectivity network for salient segmentation | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08576646.pdf)/[Code]
 53 | CIG | TIP | 2019 | Deep Salient Object Detection with Contextual Information Guidance | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08782147.pdf)/[Code]
+53 | SPA | TIP | 2019 | Semantic Prior Analysis for Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08624611.pdf)/[Code]
+54 | SIA | TMM | 2019 | Saliency Integration An Arbitrator Model | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08411135.pdf)/[Code]
+55 | CDMG | TIP | 2019 | Weakly Supervised Salient Object Detection by Learning A Classifier-Driven Map Generator | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08720239.pdf)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
-54 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 55 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 53 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 54 | DFI | TIP | 2020 | Dynamic Feature Integration for Simultaneous Detection of Salient Object, Edge and Skeleton | [Paper](http://mftp.mmcheng.net/Papers/20TIP-DFI.pdf)/[Code](https://github.com/backseason/DFI)
