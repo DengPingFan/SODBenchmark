@@ -319,7 +319,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 05 | DISC | TNNLS | 2016 | DISC: Deep image saliency computing via progressive representation learning | [Paper](https://ieeexplore.ieee.org/iel7/5962385/6104215/07372470.pdf)/[Code]
 06 | DSL | TCSVT | 2016 | Dense and Sparse Labeling with Multi-Dimensional Features for Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/76/4358651/07802636.pdf)/[Code]
 07 | DS | TIP | 2016 | DeepSaliency: Multi-task deep neural network model for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/07488288.pdf)/[Code]
-05 | xx | xx | 2016 | xx | [Paper]()/[Code]
+08 | SSD | ECCV | 2016 | A shape-based approach for salient object detection using deep learning | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_28)/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
 05 | xx | xx | 2016 | xx | [Paper]()/[Code]
