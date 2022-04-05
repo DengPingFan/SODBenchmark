@@ -303,8 +303,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 34 | Refinet | TMM | 2018 | Refinet A deep segmentation assisted refinement network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08419317.pdf)/[Code]
 35 | MSED | Neurocomputing | 2018 | Multi-scale deep encoder-decoder network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231218308907)/[Code]
 36 | EARNet | T-Cybernetics | 2018 | Embedding Attention and Residual Network for Accurate Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/6221036/9068331/08546752.pdf)/[Code]
-37 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and
-saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
+37 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
 38 | ASMO | AAAI | 2018 | Weakly supervised salient object detection using image labels | [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12308/12167)/[Code]
 39 | RADF | AAAI | 2018 | Recurrently aggregating deep features for salient object detection | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12298/12157)/[Code]
 40 | R3Net | IJCAI | 2018 | R3net: Recurrent residual refinement network for saliency detection | [Paper](https://www.ijcai.org/proceedings/2018/0095.pdf)/[Code]
