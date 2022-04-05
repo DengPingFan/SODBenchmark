@@ -33,8 +33,14 @@ Co-SOD, 360° Video SOD, and Video SOD.
 
 ## 3. Evaluation Code
 Link: https://github.com/mczhuge/SOCToolbox
+Note: If you want to list your results on our web, please send your name, model name, paper title to us.
+Important Tips: Some works use the so-called same F-measure metric, while they do not explicitly describe which statistic (e.g., mean or max) they used, 
+easily resulting in unfair comparison and inconsistent performance. Meanwhile, the different threshold strategies in F-measure (e.g., 255 varied thresholds, 
+adaptive saliency threshold, and self-adaptive threshold) will result in different performance. 
+Fairly comparing RGB-D based SOD models by extensively evaluating them with same metrics on standard benchmarks is highly desired.
+So you need to download all of our re-organized datasets, saliency maps of each model and then evaluate your model.
 
-## 2. 2D RGB Saliency Detection Models
+## 4. 2D RGB Saliency Detection Models
 
 ## Traditional Methods (Updated: 2022-04-04)
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
