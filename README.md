@@ -299,7 +299,7 @@ Co-SOD, 360° Video SOD, and Video SOD.
 30 | SVF | ICCV | 2017 | Supervision by Fusion: Towards Unsupervised Learning of Deep Salient Object Detector  | [Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Supervision_by_Fusion_ICCV_2017_paper.pdf)/[Code](https://github.com/zhangyuygss/SVFSal.caffe)
 31 | UCF | ICCV | 2017 | Learning Uncertain Convolutional Features for Accurate Saliency Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Learning_Uncertain_Convolutional_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
 32 | AMU | ICCV | 2017 | Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Amulet_Aggregating_Multi-Level_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
-33 | UGA | TIP | 2017 | An Unsupervised Game-Theoretic Approach to Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08361890.pdf)/[Code]
+33 | UGA | TIP | 2018 | An Unsupervised Game-Theoretic Approach to Saliency Detection | [Paper](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)/[Code](https://github.com/zengxianyu/uga)
 34 | Refinet | TMM | 2018 | Refinet A deep segmentation assisted refinement network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08419317.pdf)/[Code]
 35 | MSED | Neurocomputing | 2018 | Multi-scale deep encoder-decoder network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231218308907)/[Code]
 36 | EARNet | T-Cybernetics | 2018 | Embedding Attention and Residual Network for Accurate Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/6221036/9068331/08546752.pdf)/[Code]
@@ -336,7 +336,7 @@ saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/pape
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
 :-: | :-: | :-  | :-: 
-11 | **IEEE TIP** | An unsupervised game-theoretic approach to saliency detection | [Paper](https://pan.baidu.com/s/1U1O4oFK6ZALSghPjJv_5nA)/[Code](https://github.com/zengxianyu/uga)
+11 | **IEEE TIP** | An unsupervised game-theoretic approach to saliency detection | 
 12 | **arXiv** | Agile Amulet: Real-Time Salient Object Detection with Contextual Attention | [Paper](http://arxiv.org/pdf/1802.06960)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
 13 | **arXiv** | HyperFusion-Net: Densely Reflective Fusion for Salient Object Detection | [Paper](http://arxiv.org/pdf/1804.05142)/[Code](https://github.com/Pchank/caffe-sal/blob/master/IIAU2018.md)
 14 | **arXiv** | (TBOS)Three Birds One Stone: A Unified Framework for Salient Object Segmentation, Edge Detection and Skeleton Extraction | [Paper](https://arxiv.org/pdf/1803.09860.pdf)/Code
