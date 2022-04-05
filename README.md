@@ -301,10 +301,27 @@ Co-SOD, 360° Video SOD, and Video SOD.
 32 | AMU | ICCV | 2017 | Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection | [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Amulet_Aggregating_Multi-Level_ICCV_2017_paper.pdf)/[Code](https://github.com/Pchank/caffe-sal)
 33 | UGA | TIP | 2017 | An Unsupervised Game-Theoretic Approach to Saliency Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08361890.pdf)/[Code]
 34 | Refinet | TMM | 2018 | Refinet A deep segmentation assisted refinement network for salient object detection | [Paper](https://ieeexplore.ieee.org/iel7/6046/4456689/08419317.pdf)/[Code]
-35 | xx | xx | 2016 | xx | [Paper]()/[Code]
-36 | xx | xx | 2016 | xx | [Paper]()/[Code]
-37 | xx | xx | 2016 | xx | [Paper]()/[Code]
-38 | xx | xx | 2016 | xx | [Paper]()/[Code]
+35 | MSED | Neurocomputing | 2018 | Multi-scale deep encoder-decoder network for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231218308907)/[Code]
+36 | EARNet | T-Cybernetics | 2018 | Embedding Attention and Residual Network for Accurate Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/6221036/9068331/08546752.pdf)/[Code]
+37 | LICNN | AAAI | 2018 | Lateral inhibition-inspired convolutional neural network for visual attention and
+saliency detection | [Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16230/16250)/[Code]
+38 | ASMO | AAAI | 2018 | Weakly supervised salient object detection using image labels | [Paper](https://ojs.aaai.org/index.php/AAAI/article/download/12308/12167)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
+38 | xx | xxx | 2018 | xxx | [Paper](xxx)/[Code]
 
 ## 2018
 **No.** | **Pub.** | **Title** | **Links** 
