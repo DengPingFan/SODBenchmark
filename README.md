@@ -42,7 +42,9 @@ Fairly comparing RGB-D based SOD models by extensively evaluating them with same
 So you need to download all of our re-organized datasets, saliency maps of each model and then evaluate your model.
 
 ## 4. SOC Dataset
-![avatar](Imgs/SOC-Example.png)
+![avatar](Imgs/SOC.png)
+Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
+
 Note that the Test Set only contains images and without ground truth.  We will create the  SOC Benchmark website soon and you can upload your result to obtain the final score in our website. Also, you can use the Validation Set as Test Set first. Note that the image file of COCO_train2014_000000080168.PNG should be changed with new file name COCO_train2014_000000080168.png to prevent some errors during training your model.
 
 **Name** | **SOC-Train** |  **SOC-Val** | **SOC-Test** | **Total** | **Link**
