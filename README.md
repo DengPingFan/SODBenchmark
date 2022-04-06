@@ -67,6 +67,7 @@ Note that: If the model used S-measure/E-measure will be marked with <strong>bol
 
 ## Traditional Methods (Updated: 2022-04-04)
 ![avatar](Imgs/Traditional.png)
+
 Download link: [Google](https://drive.google.com/drive/folders/1eubOw08o_TJyn6zYh-vHw5JpwcdhuwCg?usp=sharing).
 
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
