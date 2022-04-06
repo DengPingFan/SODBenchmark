@@ -59,7 +59,7 @@ Instance-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.ba
 Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 
 ## 5. 2D RGB Saliency Detection Models
-Note that: If the model used S-measure/E-measure will be marked with <strong>color</strong>.
+Note that: If the model used S-measure/E-measure will be marked with <strong>bold</strong>.
 
 ## Traditional Methods (Updated: 2022-04-04)
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
@@ -218,7 +218,7 @@ Note that: If the model used S-measure/E-measure will be marked with <strong>col
 54 | DANet | JSTSP | 2019 | Distortion-adaptive Salient Object Detection in 360∘ Omnidirectional Images | [Paper](https://ieeexplore.ieee.org/iel7/4200690/5418892/08926489.pdf)/[Code]
 55 | RSR | TPAMI | 2019 | Relative Saliency and Ranking: Models, Metrics, Data and Benchmarks | [Paper](https://ieeexplore.ieee.org/iel7/34/9280439/08756097.pdf)/[Code]
 56 | Hyperfusion-Net | PR | 2019 | Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301876)/[Code]
-57 | Deepside | Neurocomputing | 2019 | Deepside: A General Deep Framework for Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219306484)/[Code]
+57 | **Deepside** | Neurocomputing | 2019 | Deepside: A General Deep Framework for Salient Object Detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231219306484)/[Code]
 58 | LVNet | TGRS | 2019 | Nested Network with Two-Stream Pyramid for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://ieeexplore.ieee.org/iel7/36/8887423/08793227.pdf)/[Code]
 59 | LFRWS | TIP | 2019 | Salient Object Detection with Lossless Feature Reflection and Weighted Structural Loss | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08618369.pdf)/[Code]
 60 | FBG | TIP | 2019 | Focal Boundary Guided Salient Object Detection | [Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08603790.pdf)/[Code]
@@ -259,7 +259,7 @@ Note that: If the model used S-measure/E-measure will be marked with <strong>col
 95 | CAGNet | PR | 2020 | CAGNet: Content-aware guidance for salient object detection | [Paper](https://www.sciencedirect.com/science/article/pii/S0031320320301072)/[Code](https://github.com/Mehrdad-Noori/CAGNet)
 96 | FastSaliency | T-Cybernetics | 2020 | Lightweight Salient Object Detection via Hierarchical Visual Perception Learning | [Paper](https://ieeexplore.ieee.org/document/9285193)/[Code](https://github.com/yun-liu/FastSaliency)
 97 | PFPNet | AAAI | 2020 | Progressive Feature Polishing Network for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.05942.pdf)/[Code](https://github.com/chenquan-cq/PFPN) 
-98 | F3Net | AAAI | 2020 | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)  
+98 | **F3Net** | AAAI | 2020 | F3Net: Fusion, Feedback and Focus for Salient Object Detection | [Paper](https://arxiv.org/pdf/1911.11445.pdf)/[Code](https://github.com/weijun88/F3Net)  
 99 | GCPANet | AAAI | 2020 | Global Context-Aware Progressive Aggregation Network for Salient Object Detection | [Paper](https://github.com/JosephChenHub/GCPANet/blob/master/GCPANet.pdf)/[Code](https://github.com/JosephChenHub/GCPANet) 
 100 | ADASOD | AAAI | 2020 | Multi-spectral Salient Object Detection by Adversarial Domain Adaptation | [Paper](https://cse.sc.edu/~songwang/document/aaai20b.pdf)/[Code](https://tsllb.github.io/MultiSOD.html) 
 101 | MTSA | AAAI | 2020 | Multi-Type Self-Attention Guided Degraded Saliency Detection | [Paper](https://cse.sc.edu/~songwang/document/aaai20a.pdf)/Code
@@ -309,9 +309,9 @@ Note that: If the model used S-measure/E-measure will be marked with <strong>col
 145 | CDBF | TOMM | 2022 | Disentangle Saliency Detection into Cascaded Detail Modeling and Body Filling | [Paper](https://arxiv.org/pdf/2202.04112.pdf)/Code  
 146 | NSALWSS | TMM | 2022 | Noise-Sensitive Adversarial Learning for Weakly Supervised Salient Object Detection | [Paper](https://ieeexplore.ieee.org/abstract/document/9716868/authors#authors)/[Code](https://github.com/wuweia123/IEEE-TMM-NSALWSS) 
 147 | ACCoNet | T-Cybernetics | 2022 | Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images | [Paper](https://arxiv.org/pdf/2203.13664.pdf)/[Code](https://github.com/MathLee/ACCoNet) 
-148 | ICON | TPAMI-Minor | 2022 | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/abs/2101.07663)/[Code](https://github.com/mczhuge/ICON) 
-149 | SOC-DataAug | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
-150 | BAS | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
+148 | **ICON** | TPAMI-Minor | 2022 | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/abs/2101.07663)/[Code](https://github.com/mczhuge/ICON) 
+149 | **SOC-DataAug** | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
+150 | **BAS** | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
 
 ## 6. xxx
 
