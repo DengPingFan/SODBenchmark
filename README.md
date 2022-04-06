@@ -58,7 +58,7 @@ Instance-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.ba
 ![avatar](Imgs/SOD-Dataset.png)
 Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 
-## 4. 2D RGB Saliency Detection Models
+## 5. 2D RGB Saliency Detection Models
 
 ## Traditional Methods (Updated: 2022-04-04)
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
@@ -312,7 +312,9 @@ Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 149 | SOC-DataAug | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
 150 | BAS | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
 
-## 4. Citation
+## 6. xxx
+
+## 9. Citation
 
 Please cite our paper if you use our results: 
 
