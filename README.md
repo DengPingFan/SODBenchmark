@@ -168,6 +168,10 @@ Download link: [Google](https://drive.google.com/drive/folders/1eubOw08o_TJyn6zY
    95    |    LRR    |      TIP       |   2019   | Local Regression Ranking for Saliency Detection              | [[Paper](https://ieeexplore.ieee.org/iel7/83/8835130/08850321.pdf)]/[Code] 
 
 ## Deep Learning Methods (Updated: 2022-04-05)
+![avatar](Imgs/Deep-Learning.png)
+
+Download link: [Google](https://drive.google.com/drive/folders/1AF1w7auAE3y1qT3FuYr_wae20okB7BUm).
+
 **No.** | **Name.** | **Pub.** | **Year** | **Title** | **Links** 
 :-: | :-: | :-: | :-: | :-  | :-: 
 01 | SuperCNN | IJCV | 2015 | A superpixelwise convolutional neural network for salient object detection | [Paper](https://link.springer.com/article/10.1007/s11263-015-0822-0)/[Code]
