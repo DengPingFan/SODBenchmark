@@ -59,7 +59,7 @@ Instance-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.ba
 Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 
 ## 5. 2D RGB Saliency Detection Models
-Note that: If the model used S-measure/E-measure will be marked with <strong><font color="red">color</font></strong>.
+Note that: If the model used S-measure/E-measure will be marked with <strong><font color="blue">color</font></strong>.
 
 ## Traditional Methods (Updated: 2022-04-04)
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
