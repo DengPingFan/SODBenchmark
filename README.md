@@ -325,7 +325,10 @@ Download link: [Google](https://drive.google.com/drive/folders/1AF1w7auAE3y1qT3F
 149 | **SOC-DataAug** | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
 150 | **BAS** | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
 
-## 6. xxx
+## 6. Attribute-Level Performance
+![avatar](Imgs/All-Cmp.png)
+
+Download link: [Google](https://drive.google.com/drive/folders/1c4CgQICbRKg0Hzj4XhBRHr0o9OKu2MSf?usp=sharing).
 
 ## 9. Citation
 
