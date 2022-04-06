@@ -66,6 +66,9 @@ Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 Note that: If the model used S-measure/E-measure will be marked with <strong>bold</strong>.
 
 ## Traditional Methods (Updated: 2022-04-04)
+![avatar](Imgs/Traditional.png)
+Download link: [Google](https://drive.google.com/drive/folders/1eubOw08o_TJyn6zYh-vHw5JpwcdhuwCg?usp=sharing).
+
  **No.** | **Name.** |    **Pub.**    | **Year** | **Title**                                                    |                          **Links**                           
 :-: | :-: | :-: | :-: | :-  | :-: 
    01    |    It     |     TPAMI      |   1998   | A Model of Saliency-Based Visual Attention for Rapid Scene Analysis | [[Paper](https://www.researchgate.net/publication/3192913_A_Model_of_Saliency-based_Visual_Attention_for_Rapid_Scene_Analysis)]/[Code] 
