@@ -30,7 +30,7 @@ recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](
 Co-SOD, 360° Video SOD, and Video SOD.
 
 ![avatar](Imgs/Scope.png)
-
+Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 
 ## 3. Evaluation Code
 Link: https://github.com/mczhuge/SOCToolbox
