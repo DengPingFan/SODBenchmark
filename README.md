@@ -43,9 +43,8 @@ So you need to download all of our re-organized datasets, saliency maps of each 
 
 ## 4. SOC Dataset
 ![avatar](Imgs/SOC.png)
-Fig.2 Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
 
-Note that the Test Set only contains images and without ground truth.  We will create the  SOC Benchmark website soon and you can upload your result to obtain the final score in our website. Also, you can use the Validation Set as Test Set first. Note that the image file of COCO_train2014_000000080168.PNG should be changed with new file name COCO_train2014_000000080168.png to prevent some errors during training your model.
+Fig.2 Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
 
 **Name** | **SOC-Train** |  **SOC-Val** | **SOC-Test** | **Total** | **Link**
 :-: | :-: | :-: | :-: | :- | :- 
@@ -57,6 +56,8 @@ Total | 3,600 | 1,200 | 1,200 | 6,000 | [Baidu](https://pan.baidu.com/s/1J8_CF7z
 Object-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.baidu.com/s/1cmi1NEzKnJJjmQSqYNpUgQ)
 
 Instance-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.baidu.com/s/18HK8-3FDK3FNBk6x4WyWEg) 
+
+Note that the Test Set only contains images and without ground truth.  We will create the  SOC Benchmark website soon and you can upload your result to obtain the final score in our website. Also, you can use the Validation Set as Test Set first. Note that the image file of COCO_train2014_000000080168.PNG should be changed with new file name COCO_train2014_000000080168.png to prevent some errors during training your model.
 
 ![avatar](Imgs/SOD-Dataset.png)
 Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
