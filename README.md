@@ -46,6 +46,10 @@ So you need to download all of our re-organized datasets, saliency maps of each 
 
 Fig.2 Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
 
+![avatar](Imgs/SOC-1.png)
+
+Fig.3 (a) Number of annotated instances per category in our SOC dataset. (b, c) Global and local color contrast statistics, respectively. (d) A set of saliency maps from our dataset and their overlay map. (e) Location distribution of the salient objects in SOC. (f) Distribution of instance sizes in the SOCand ILSO datasets. (g) Visual examples of attributes. Best view on screen and zoomed-in for details.
+
 **Name** | **SOC-Train** |  **SOC-Val** | **SOC-Test** | **Total** | **Link**
 :-: | :-: | :-: | :-: | :- | :- 
 Salient Object (Sal) | 1,800 | 600 | 600 | 3,000 |
