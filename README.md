@@ -30,7 +30,7 @@ recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](
 Co-SOD, 360° Video SOD, and Video SOD.
 
 ![avatar](Imgs/Scope.png)
-
+Fig.1 Taxonomy of the saliency detection task. We highlight the scope of this study in gray.
 
 ## 3. Evaluation Code
 Link: https://github.com/mczhuge/SOCToolbox
@@ -43,7 +43,7 @@ So you need to download all of our re-organized datasets, saliency maps of each 
 
 ## 4. SOC Dataset
 ![avatar](Imgs/SOC.png)
-Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
+Fig.2 Examples from our new SOCdataset,including non-salient (first row) and salient object images (rows 2 to 4). For salient object images, an instance-level ground-truth map (different color), object attributes (Attr) and category labels are provided.
 
 Note that the Test Set only contains images and without ground truth.  We will create the  SOC Benchmark website soon and you can upload your result to obtain the final score in our website. Also, you can use the Validation Set as Test Set first. Note that the image file of COCO_train2014_000000080168.PNG should be changed with new file name COCO_train2014_000000080168.png to prevent some errors during training your model.
 
