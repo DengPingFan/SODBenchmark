@@ -30,7 +30,7 @@ recent survey and benchmarking works such as RGB-D SOD, Event-RGB SOD [(ERSOD)](
 Co-SOD, 360° Video SOD, and Video SOD.
 
 ![avatar](Imgs/Scope.png)
-Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
+
 
 ## 3. Evaluation Code
 Link: https://github.com/mczhuge/SOCToolbox
@@ -56,7 +56,7 @@ Object-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.baid
 Instance-level Ground-Truth of the SOC Test Set released. [Baidu](https://pan.baidu.com/s/18HK8-3FDK3FNBk6x4WyWEg) 
 
 ![avatar](Imgs/SOD-Dataset.png)
-
+Download link: [Baidu](https://pan.baidu.com/s/1IrU0Ake0NR0R_goK0MudkA).
 
 ## 4. 2D RGB Saliency Detection Models
 
