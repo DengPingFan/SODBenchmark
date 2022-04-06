@@ -43,12 +43,12 @@ So you need to download all of our re-organized datasets, saliency maps of each 
 ## 4. SOC Dataset
 Note that the Test Set only contains images and without ground truth.  We will create the  SOC Benchmark website soon and you can upload your result to obtain the final score in our website. Also, you can use the Validation Set as Test Set first. Note that the image file of COCO_train2014_000000080168.PNG should be changed with new file name COCO_train2014_000000080168.png to prevent some errors during training your model.
 
-**Name** | **SOC-Train** |  **SOC-Val** | **SOC-Test** | **Total** | **Links**
-:-: | :-: | :-: | :-: | :-  | :-: 
-Salient Object (Sal) | 1,800 | 600 | 600 | 3,000 | link
-Non-Salient Object (NonSal) | 1,800 | 600 | 600 | 3,000 | link 
-Total | 3,600 | 1,200 | 1,200 | 6,000 | link
-| link1 | link2 | link3 | link4
+**Name** | **SOC-Train** |  **SOC-Val** | **SOC-Test** | **Total** 
+:-: | :-: | :-: | :-: | :-  
+Salient Object (Sal) | 1,800 | 600 | 600 | 3,000 
+Non-Salient Object (NonSal) | 1,800 | 600 | 600 | 3,000 
+Total | 3,600 | 1,200 | 1,200 | 6,000 
+| link1 | link2 | link3 | link4 | link5
  
 
 ## 4. 2D RGB Saliency Detection Models
