@@ -328,6 +328,7 @@ Download link: [Google](https://drive.google.com/drive/folders/1AF1w7auAE3y1qT3F
 148 | **ICON** | TPAMI-Minor | 2022 | Salient Object Detection via Integrity Learning | [Paper](https://arxiv.org/abs/2101.07663)/[Code](https://github.com/mczhuge/ICON) 
 149 | **SOC-DataAug** | TPAMI | 2022 | Salient objects in clutter | [Paper](https://arxiv.org/abs/2105.03053)/[Code](https://github.com/DengPingFan/SOC-DataAug) 
 150 | **BAS** | arXiv | 2022 | Boundary-aware segmentation network for mobile and web applications | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet)
+151 | **SHNet** | ECCV | 2022 | Saliency Hierarchy Modeling via Generative Kernels for Salient Object Detection | [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880564.pdf)
 
 ## 6. Attribute-Level Performance
 ![avatar](Imgs/All-Cmp.png)
